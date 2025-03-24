@@ -1,0 +1,915 @@
+filename,category
+1045HR-0-0026.csv,Pure Shear
+1045HR-0-0038.csv,Pure Shear
+1045HR-0-0072.csv,Pure Shear
+1045HR-0-0173.csv,Pure Shear
+1045HR-0010-0020.csv,Proportional
+1045HR-0013-0013.csv,Proportional
+1045HR-0014-0029.csv,Proportional
+1045HR-0019-0019.csv,Proportional
+1045HR-0021-0011.csv,Proportional
+1045HR-0022-0.csv,Uniaxial
+1045HR-0026-0052.csv,Proportional
+1045HR-0037-0037.csv,Proportional
+1045HR-0041-0021.csv,Proportional
+1045HR-0043-0.csv,Uniaxial
+1045HR-0050-0.csv,Uniaxial
+1045HR-0055-0.csv,Uniaxial
+1045HR-0065-0131.csv,Proportional
+1045HR-0087-0087.csv,Proportional
+1045HR-0096-0048.csv,Proportional
+1045HR-0100-0.csv,Uniaxial
+1045HR-90-0010-0020.csv,Nonproportional
+1045HR-90-0013-0013.csv,Nonproportional
+1045HR-90-0014-0029.csv,Nonproportional
+1045HR-90-0019-0019.csv,Nonproportional
+1045HR-90-0021-0011.csv,Nonproportional
+1045HR-90-0026-0052.csv,Nonproportional
+1045HR-90-0037-0037.csv,Nonproportional
+1045HR-90-0041-0021.csv,Nonproportional
+16MnR-a-0.00100-0.00173.csv,Nonproportional
+16MnR-a-0.00110-0.00191.csv,Nonproportional
+16MnR-a-0.00138-0.00242.csv,Nonproportional
+16MnR-a-0.00200-0.00346.csv,Nonproportional
+16MnR-a-0.00277-0.00484.csv,Nonproportional
+16MnR-a-0.00397-0.00693.csv,Nonproportional
+16MnR-a-0.00400-0.00692.csv,Nonproportional
+16MnR-a-0.006-0.01039.csv,Nonproportional
+16MnR-b-0.00106-0.00185.csv,Proportional
+16MnR-b-0.00136-0.00243.csv,Proportional
+16MnR-b-0.00707-0.001225.csv,Proportional
+16MnR-c-0.00133-0.00346.csv,Nonproportional
+16MnR-d-0.001-0.00260.csv,Nonproportional
+16MnR-d-0.00160-0.00416.csv,Nonproportional
+16MnR-d-0.00300-0.00780.csv,Nonproportional
+1Cr18Ni9T-1-0.002.csv,Uniaxial
+1Cr18Ni9T-1-0.003.csv,Uniaxial
+1Cr18Ni9T-1-0.004.csv,Uniaxial
+1Cr18Ni9T-1-0.005.csv,Uniaxial
+1Cr18Ni9T-1-0.01.csv,Uniaxial
+1Cr18Ni9T-2-0.0025.csv,Pure Shear
+1Cr18Ni9T-2-0.004.csv,Pure Shear
+1Cr18Ni9T-2-0.006.csv,Pure Shear
+1Cr18Ni9T-2-0.01.csv,Pure Shear
+1Cr18Ni9T-2-0.015.csv,Pure Shear
+1Cr18Ni9T-3-0.002.csv,Nonproportional
+1Cr18Ni9T-3-0.0028.csv,Nonproportional
+1Cr18Ni9T-3-0.004.csv,Nonproportional
+1Cr18Ni9T-3-0.01.csv,Nonproportional
+2024-T3-0.0142.csv,Pure Shear
+2024-T3-0.02.csv,Pure Shear
+2024-T3-U-0.0053.csv,Uniaxial
+2024-T3-U-0.0087.csv,Uniaxial
+2024-T3-U-0.0120.csv,Uniaxial
+304SS-0.00145-0023.csv,Proportional
+304SS-0.0025-0043.csv,Proportional
+304SS-90-0.0020-0035.csv,Nonproportional
+304SS-90-0.0035-0061.csv,Nonproportional
+304SS-box-0.0014-0024.csv,Nonproportional
+304SS-box-0.0025-0043.csv,Nonproportional
+304SS-twobox-0.0014-0024.csv,Nonproportional
+304SS-twobox-0.0025-0043.csv,Nonproportional
+410-IP-0.002-0.005.csv,Proportional
+410-IP-0.0025-0.0025.csv,Proportional
+410-IP-0.0026-0.0042.csv,Proportional
+410-IP-0.0026-0.0048.csv,Proportional
+410-IP-0.0030-0.0042.csv,Proportional
+410-IP-0.0030-0.0048.csv,Proportional
+410-IP-0.0035-0.0030.csv,Proportional
+410-OP-0.002-0.005.csv,Nonproportional
+410-OP-0.0025-0.0025.csv,Nonproportional
+410-OP-0.0026-0.0042.csv,Nonproportional
+410-OP-0.0026-0.0048.csv,Nonproportional
+410-OP-0.0030-0.0042.csv,Nonproportional
+410-OP-0.0030-0.0048.csv,Nonproportional
+410-OP-0.0035-0.0030.csv,Nonproportional
+45mild-0-0.01039.csv,Pure Shear
+45mild-0-0.01386.csv,Pure Shear
+45mild-0.004-0.01386-01.csv,Nonproportional
+45mild-0.004-0.01386-10.csv,Nonproportional
+45mild-0.004-0.01386-11.csv,Nonproportional
+45mild-0.0048-0.csv,Uniaxial
+45mild-0.00566-0.00979-0.csv,Proportional
+45mild-0.00566-0.00979-00-45.csv,Nonproportional
+45mild-0.00566-0.00979-11-45.csv,Nonproportional
+45mild-0.00566-0.00979-11-60.csv,Nonproportional
+45mild-0.00566-0.00979.csv,Proportional
+45mild-0.0059-0.csv,Uniaxial
+45mild-0.0069-0.csv,Uniaxial
+45mild-0.008-0.00693-01.csv,Nonproportional
+45mild-0.008-0.00693-10.csv,Nonproportional
+45mild-0.008-0.00693-11.csv,Nonproportional
+45mild-0.008-0.01386-00-90.csv,Nonproportional
+45mild-0.008-0.01386-01-90.csv,Nonproportional
+45mild-0.008-0.01386-10-90.csv,Nonproportional
+45mild-0.008-0.01386-11-45.csv,Nonproportional
+45mild-0.008-0.01386-11-90.csv,Nonproportional
+6061-T6-1-10.csv,Uniaxial
+6061-T6-1-18.csv,Uniaxial
+6061-T6-1-22.csv,Uniaxial
+6061-T6-1-28.csv,Uniaxial
+6061-T6-1-30.csv,Uniaxial
+6061-T6-2-2.csv,Pure Shear
+6061-T6-2-27.csv,Pure Shear
+6061-T6-2-29.csv,Pure Shear
+6061-T6-2-4.csv,Pure Shear
+6061-T6-2-6.csv,Pure Shear
+6061-T6-3-15.csv,Proportional
+6061-T6-3-23.csv,Proportional
+6061-T6-3-24.csv,Proportional
+6061-T6-3-25.csv,Proportional
+6061-T6-3-26.csv,Proportional
+6061-T6-3-5.csv,Proportional
+7075-T651-c-0.0017-0.006.csv,Proportional
+7075-T651-c-0.0021-0.0037.csv,Proportional
+7075-T651-c-0.0022-0.0078.csv,Proportional
+7075-T651-c-0.0023-0.004.csv,Proportional
+7075-T651-c-0.0028-0.0049.csv,Proportional
+7075-T651-c-0.0050-0.0086.csv,Proportional
+7075-T651-c-0.0064-0.011.csv,Proportional
+7075-T651-d-0.0027-0.0041.csv,Nonproportional
+7075-T651-d-0.0028-0.0049.csv,Nonproportional
+7075-T651-d-0.0038-0.0066.csv,Nonproportional
+7075-T651-d-0.0051-0.0087.csv,Nonproportional
+7075-T651-d-0.0075-0.0130.csv,Nonproportional
+7075-T651-d-0.0085-0.0145.csv,Nonproportional
+7075-T651-e-0.0020-0.0032.csv,Nonproportional
+7075-T651-e-0.0028-0.0049.csv,Nonproportional
+7075-T651-e-0.0049-0.0086.csv,Nonproportional
+7075-T651-f-0.0028-0.0049.csv,Nonproportional
+7075-T651-f-0.0036-0.0063.csv,Nonproportional
+7075-T651-f-0.0040-0.0070.csv,Nonproportional
+AISI 316L-0-0.01386.csv,Pure Shear
+AISI 316L-0-0.01732.csv,Pure Shear
+AISI 316L-0-0.01905.csv,Pure Shear
+AISI 316L-0-0.02079.csv,Pure Shear
+AISI 316L-0-0.02252.csv,Pure Shear
+AISI 316L-0.00566-0.00980.csv,Proportional
+AISI 316L-0.00612-0.01060.csv,Nonproportional
+AISI 316L-0.00707-0.001225.csv,Proportional
+AISI 316L-0.00766-0.01327.csv,Nonproportional
+AISI 316L-0.00778-0.001348.csv,Proportional
+AISI 316L-0.008-0.001386.csv,Nonproportional
+AISI 316L-0.008-0.csv,Uniaxial
+AISI 316L-0.00843-0.01460.csv,Nonproportional
+AISI 316L-0.00849-0.001470.csv,Proportional
+AISI 316L-0.00919-0.001592.csv,Nonproportional
+AISI 316L-0.00919-0.001593.csv,Proportional
+AISI 316L-0.00996-0.001725.csv,Nonproportional
+AISI 316L-0.01-0.001732.csv,Nonproportional
+AISI 316L-0.01-0.csv,Uniaxial
+AISI 316L-0.011-0.01905.csv,Nonproportional
+AISI 316L-0.011-0.csv,Uniaxial
+AISI 316L-0.012-0.02078.csv,Nonproportional
+AISI 316L-0.012-0.csv,Uniaxial
+AISI 316L-0.013-0.02252.csv,Nonproportional
+AISI 316L-0.013-0.csv,Uniaxial
+Al5083-1-0.00231-0.004.csv,Proportional
+Al5083-2-0.00231-0.004.csv,Nonproportional
+Al5083-3-0.00231-0.004.csv,Nonproportional
+Al5083-4-0.00231-0.004.csv,Nonproportional
+Al5083-5-0.00231-0.004.csv,Nonproportional
+Al5083-6-0.00231-0.004.csv,Nonproportional
+Al5083-7-0.00231-0.004.csv,Nonproportional
+AZ31B-1-0.0026.csv,Uniaxial
+AZ31B-1-0.003.csv,Uniaxial
+AZ31B-1-0.0035.csv,Uniaxial
+AZ31B-1-0.004.csv,Uniaxial
+AZ31B-1-0.0045.csv,Uniaxial
+AZ31B-1-0.0047.csv,Uniaxial
+AZ31B-1-0.005.csv,Uniaxial
+AZ31B-1-0.0075.csv,Uniaxial
+AZ31B-1-0.01.csv,Uniaxial
+AZ31B-1-0.02.csv,Uniaxial
+AZ31B-2-0.0035.csv,Pure Shear
+AZ31B-2-0.0042.csv,Pure Shear
+AZ31B-2-0.0053.csv,Pure Shear
+AZ31B-2-0.0069.csv,Pure Shear
+AZ31B-2-0.0087.csv,Pure Shear
+AZ31B-2-0.0104.csv,Pure Shear
+AZ31B-2-0.0130.csv,Pure Shear
+AZ31B-2-0.0173.csv,Pure Shear
+AZ31B-2-0.0242.csv,Pure Shear
+AZ31B-3-0.0018-0.0032.csv,Proportional
+AZ31B-3-0.0021-0.0037.csv,Proportional
+AZ31B-3-0.0028-0.0049.csv,Proportional
+AZ31B-3-0.0035-0.0061.csv,Proportional
+AZ31B-3-0.0042-0.0088.csv,Proportional
+AZ31B-3-0.005-0.0092.csv,Proportional
+AZ31B-3-0.0071-0.0123.csv,Proportional
+AZ31B-3-0.01-0.0173.csv,Proportional
+AZ31B-4-0.0020-0.0035.csv,Nonproportional
+AZ31B-4-0.0024-0.0042.csv,Nonproportional
+AZ31B-4-0.0030-0.0052.csv,Nonproportional
+AZ31B-4-0.0032-0.0055.csv,Nonproportional
+AZ31B-4-0.0035-0.0061.csv,Nonproportional
+AZ31B-4-0.004-0.0069.csv,Nonproportional
+AZ31B-4-0.005-0.0087.csv,Nonproportional
+AZ31B-4-0.0075-0.013.csv,Nonproportional
+AZ31B-4-0.0100-0.0173.csv,Nonproportional
+AZ31B-4-0.0141-0.0245.csv,Nonproportional
+AZ61A-a-0.0015.csv,Uniaxial
+AZ61A-a-0.002.csv,Uniaxial
+AZ61A-a-0.0025.csv,Uniaxial
+AZ61A-a-0.003.csv,Uniaxial
+AZ61A-a-0.0035.csv,Uniaxial
+AZ61A-a-0.004.csv,Uniaxial
+AZ61A-a-0.0045.csv,Uniaxial
+AZ61A-a-0.005.csv,Uniaxial
+AZ61A-a-0.0052.csv,Uniaxial
+AZ61A-a-0.006.csv,Uniaxial
+AZ61A-a-0.007.csv,Uniaxial
+AZ61A-a-0.01.csv,Uniaxial
+AZ61A-b-0.0036.csv,Pure Shear
+AZ61A-b-0.0044.csv,Pure Shear
+AZ61A-b-0.0052.csv,Pure Shear
+AZ61A-b-0.0053.csv,Pure Shear
+AZ61A-b-0.0061.csv,Pure Shear
+AZ61A-b-0.0069.csv,Pure Shear
+AZ61A-b-0.0078.csv,Pure Shear
+AZ61A-b-0.0083.csv,Pure Shear
+AZ61A-b-0.0089.csv,Pure Shear
+AZ61A-b-0.0104.csv,Pure Shear
+AZ61A-b-0.0121.csv,Pure Shear
+AZ61A-b-0.0139.csv,Pure Shear
+AZ61A-b-0.0173.csv,Pure Shear
+AZ61A-c-0.0014-0.0024.csv,Proportional
+AZ61A-c-0.0016-0.0027.csv,Proportional
+AZ61A-c-0.0018-0.0031.csv,Proportional
+AZ61A-c-0.0021-0.0037.csv,Proportional
+AZ61A-c-0.0025-0.0043.csv,Proportional
+AZ61A-c-0.0028-0.0049.csv,Proportional
+AZ61A-c-0.0032-0.0055.csv,Proportional
+AZ61A-c-0.0035-0.0061.csv,Proportional
+AZ61A-c-0.0037-0.0064.csv,Proportional
+AZ61A-c-0.0042-0.0073.csv,Proportional
+AZ61A-c-0.0049-0.0086.csv,Proportional
+AZ61A-c-0.0071-0.0122.csv,Proportional
+AZ61A-c-0.0106-0.0184.csv,Proportional
+AZ61A-d-0.0012-0.0021.csv,Nonproportional
+AZ61A-d-0.0015-0.0026.csv,Nonproportional
+AZ61A-d-0.002-0.0035.csv,Nonproportional
+AZ61A-d-0.0025-0.0043.csv,Nonproportional
+AZ61A-d-0.003-0.0052.csv,Nonproportional
+AZ61A-d-0.0035-0.0061.csv,Nonproportional
+AZ61A-d-0.004-0.0069.csv,Nonproportional
+AZ61A-d-0.005-0.0087.csv,Nonproportional
+AZ61A-d-0.007-0.0121.csv,Nonproportional
+BT9-0-0.0049-0.0085.csv,Proportional
+BT9-0-0.0071-0.0122.csv,Proportional
+BT9-0-0.0092-0.0159.csv,Proportional
+BT9-90-0.0070-0.0121.csv,Nonproportional
+BT9-90-0.0100-0.0173.csv,Nonproportional
+BT9-90-0.0130-0.0225.csv,Nonproportional
+CA18S30P0.csv,Proportional
+CA18S31p90sin.csv,Nonproportional
+CA18S31p90trap.csv,Nonproportional
+CA20S50P0.csv,Proportional
+CA20S50p90.csv,Nonproportional
+CA20S60P0.csv,Proportional
+CA20S60p90.csv,Nonproportional
+CA20S79P0.csv,Proportional
+CA20S79p90.csv,Nonproportional
+CA25S43P0.csv,Proportional
+CA25S43p45.csv,Nonproportional
+CA25S43P90.csv,Nonproportional
+CA30S46P0.csv,Proportional
+CA30S46P90.csv,Nonproportional
+CA30S90P0.csv,Proportional
+CA30S90P90.csv,Nonproportional
+CA35S61p90.csv,Nonproportional
+CA35S61p90sin.csv,Nonproportional
+CA35S61p90trap.csv,Nonproportional
+CA37S112p0.csv,Proportional
+CA37S112p90.csv,Nonproportional
+CA40S52P0.csv,Proportional
+CA40S52P180.csv,Proportional
+CA40S52P45.csv,Nonproportional
+CA40S52p90.csv,Nonproportional
+CA42S74P0.csv,Proportional
+CA42S74P90.csv,Nonproportional
+CA50S150p0.csv,Proportional
+CA50S150p90-3.csv,Nonproportional
+CA53S92P0.csv,Proportional
+CA53S92P90.csv,Nonproportional
+CA53S92p90sin.csv,Nonproportional
+CA53S92p90trap.csv,Nonproportional
+CA60S78P0.csv,Proportional
+CA60S78p90.csv,Nonproportional
+CA70S121p0.csv,Proportional
+CA70S121p90.csv,Nonproportional
+CA70S121p90sin.csv,Nonproportional
+CA70S121p90trap.csv,Nonproportional
+CP-Ti-0.003-0.0026.csv,Proportional
+CP-Ti-0.003-0.0052.csv,Proportional
+CP-Ti-0.003-0.0104.csv,Proportional
+CP-Ti-0.003-0.0156.csv,Proportional
+CP-Ti-0.004-0.0035.csv,Proportional
+CP-Ti-0.004-0.0069.csv,Proportional
+CP-Ti-0.004-0.0138.csv,Proportional
+CP-Ti-0.004-0.0208.csv,Proportional
+CP-Ti-0.005-0.0043.csv,Proportional
+CP-Ti-0.005-0.0087.csv,Proportional
+CP-Ti-0.005-0.0173.csv,Proportional
+CP-Ti-0.005-0.0260.csv,Proportional
+CP-Ti-0.006-0.0052.csv,Proportional
+CP-Ti-0.006-0.0104.csv,Proportional
+CP-Ti-0.006-0.0208csv.csv,Proportional
+CP-Ti-0.006-0.0311csv.csv,Proportional
+CS25S43p90sin.csv,Nonproportional
+CS25S43p90trap.csv,Nonproportional
+CS28S36p0.csv,Proportional
+CS28S36p90.csv,Nonproportional
+CuZn37-NPR-0.003-0.0001.csv,Nonproportional
+CuZn37-NPR-0.0039-0.0066.csv,Nonproportional
+CuZn37-NPR-0.0039-0.0068.csv,Nonproportional
+CuZn37-NPR-0.0046-0.0082.csv,Nonproportional
+CuZn37-NPR-0.0049-0.0082.csv,Nonproportional
+CuZn37-NPR-0.0057-0.0098.csv,Proportional
+CuZn37-NPR-0.0058-0.0096.csv,Nonproportional
+CuZn37-NPR-0.0065-0.0113.csv,Nonproportional
+CuZn37-NPR-0.0067-0.0111.csv,Nonproportional
+CuZn37-NPR-0.0074-0.0131.csv,Nonproportional
+CuZn37-NPR1-0.0023-0.0040.csv,Nonproportional
+CuZn37-NPR1-0.0024-0.0039.csv,Nonproportional
+CuZn37-NPR1-0.0031-0.0052.csv,Nonproportional
+CuZn37-NPR1-0.0032-0.0051.csv,Nonproportional
+CuZn37-NPR1-0.0039-0.0060.csv,Nonproportional
+CuZn37-NPR1-0.0044-0.0076.csv,Nonproportional
+CuZn37-NPR1-0.0047-0.0076.csv,Nonproportional
+CuZn37-NPR1-0.0049-0.0079.csv,Nonproportional
+CuZn37-NPR2-0.0023-0.0040.csv,Nonproportional
+CuZn37-NPR2-0.0028-0.0047.csv,Nonproportional
+CuZn37-NPR2-0.0030-0.0047.csv,Nonproportional
+CuZn37-NPR2-0.0030-0.00542.csv,Nonproportional
+CuZn37-NPR2-0.0031-0.0054.csv,Nonproportional
+CuZn37-NPR2-0.0034-0.0061.csv,Nonproportional
+CuZn37-NPR2-0.0035-0.0061.csv,Nonproportional
+CuZn37-NPR2-0.0038-0.0067.csv,Nonproportional
+CuZn37-NPR2-0.0038-0.0068.csv,Nonproportional
+CuZn37-NPR2-0.0046-0.0083.csv,Nonproportional
+CuZn37-NPR3-0.0030-0.0050.csv,Nonproportional
+CuZn37-NPR3-0.0039-0.0069.csv,Nonproportional
+CuZn37-NPR3-0.0049-0.0083.csv,Nonproportional
+CuZn37-NPR3-0.0050-0.0087.csv,Nonproportional
+CuZn37-NPR3-0.0057-0.0099.csv,Nonproportional
+CuZn37-NPR3-0.0059-0.0104.csv,Nonproportional
+CuZn37-NPR3-0.0064-0.0121.csv,Nonproportional
+CuZn37-NPR3-0.0071-0.0121.csv,Nonproportional
+CuZn37-NPR3-0.0081-0.0138.csv,Nonproportional
+CuZn37-NPR4-0.0021-0.0036.csv,Nonproportional
+CuZn37-NPR4-0.0027-0.0049.csv,Nonproportional
+CuZn37-NPR4-0.0028-0.0048.csv,Nonproportional
+CuZn37-NPR4-0.0031-0.0055.csv,Nonproportional
+CuZn37-NPR4-0.0034-0.0061.csv,Nonproportional
+CuZn37-NPR4-0.0035-0.0061.csv,Nonproportional
+CuZn37-NPR4-0.0037-0.0067.csv,Nonproportional
+CuZn37-NPR4-0.0041-0.0073.csv,Nonproportional
+CuZn37-NPR4-0.0042-0.0073.csv,Nonproportional
+CuZn37-NPR4-0.0049-0.0086.csv,Nonproportional
+CuZn37-PRO-0.0035-0.0031.csv,Proportional
+CuZn37-PRO-0.0039-0.0039.csv,Proportional
+CuZn37-PRO-0.0044-0.0039.csv,Proportional
+CuZn37-PRO-0.0053-0.0046.csv,Proportional
+CuZn37-PRO-0.0053-0.0047.csv,Proportional
+CuZn37-PRO-0.0060-0.0054.csv,Proportional
+CuZn37-PRO-0.0063-0.0054.csv,Proportional
+CuZn37-PRO-0.0068-0.0062.csv,Proportional
+CuZn37-PRO-0.0071-0.0062.csv,Proportional
+CuZn37-TC-0.0029.csv,Uniaxial
+CuZn37-TC-0.004.csv,Uniaxial
+CuZn37-TC-0.005.csv,Uniaxial
+CuZn37-TC-0.006.csv,Uniaxial
+CuZn37-TC-0.007.csv,Uniaxial
+CuZn37-TC-0.008.csv,Uniaxial
+CuZn37-TOR-0.006.csv,Pure Shear
+CuZn37-TOR-0.0069.csv,Pure Shear
+CuZn37-TOR-0.0086.csv,Pure Shear
+CuZn37-TOR-0.0087.csv,Pure Shear
+CuZn37-TOR-0.0104.csv,Pure Shear
+CuZn37-TOR-0.0121.csv,Pure Shear
+CuZn37-TOR-0.0139.csv,Pure Shear
+E235-0-0.0035.csv,Pure Shear
+E235-0-0.0052.csv,Pure Shear
+E235-0-0.0069.csv,Pure Shear
+E235-0-0.0087.csv,Pure Shear
+E235-0-0.0104.csv,Pure Shear
+E235-0-0.0121.csv,Pure Shear
+E235-0-0.0139.csv,Pure Shear
+E235-0.002-0.csv,Uniaxial
+E235-0.0021-0.0037.csv,Proportional
+E235-0.0028-0.0049.csv,Proportional
+E235-0.003-0.csv,Uniaxial
+E235-0.0035-0.0061.csv,Proportional
+E235-0.004-0.csv,Uniaxial
+E235-0.0042-0.0073.csv,Proportional
+E235-0.0049-0.0086.csv,Proportional
+E235-0.005-0.csv,Uniaxial
+E235-0.0057-0.0098.csv,Proportional
+E235-0.006-0.csv,Uniaxial
+E235-0.007-0.csv,Uniaxial
+E235-0.008-0.csv,Uniaxial
+E235-1-4-0.0019-0.0016.csv,Nonproportional
+E235-1-4-0.0024-0.0020.csv,Nonproportional
+E235-1-4-0.0028-0.0024.csv,Nonproportional
+E235-1-4-0.0033-0.0029.csv,Nonproportional
+E235-1-4-0.0038-0.0033.csv,Nonproportional
+E235-1-4-0.0042-0.0037.csv,Nonproportional
+E235-1-4-0.0047-0.0041.csv,Nonproportional
+E235-2-1-0-0.0016-0.0028.csv,Nonproportional
+E235-2-1-0-0.002-0.0035.csv,Nonproportional
+E235-2-1-0-0.0024-0.0042.csv,Nonproportional
+E235-2-1-0-0.0028-0.0048.csv,Nonproportional
+E235-2-1-0-0.0032-0.0055.csv,Nonproportional
+E235-2-1-0-0.0036-0.0062.csv,Nonproportional
+E235-2-1-0-0.0040-0.0069.csv,Nonproportional
+E235-4-1-0.0009-0.0033.csv,Nonproportional
+E235-4-1-0.0012-0.0041.csv,Nonproportional
+E235-4-1-0.0014-0.0049.csv,Nonproportional
+E235-4-1-0.0016-0.0057.csv,Nonproportional
+E235-4-1-0.0019-0.0065.csv,Nonproportional
+E235-4-1-0.0021-0.0073.csv,Nonproportional
+E235-4-1-0.0024-0.0081.csv,Nonproportional
+E235-6-4-0.0018-0.0016.csv,Nonproportional
+E235-6-4-0.0023-0.0020.csv,Nonproportional
+E235-6-4-0.0027-0.0024.csv,Nonproportional
+E235-6-4-0.0032-0.0028.csv,Nonproportional
+E235-6-4-0.0037-0.0032.csv,Nonproportional
+E235-6-4-0.0041-0.0036.csv,Nonproportional
+E235-6-4-0.0046-0.0040.csv,Nonproportional
+E235-90-0.002-0.0035.csv,Nonproportional
+E235-90-0.0025-0.0043.csv,Nonproportional
+E235-90-0.003-0.0052.csv,Nonproportional
+E235-90-0.0035-0.0061.csv,Nonproportional
+E235-90-0.0040-0.0069.csv,Nonproportional
+E235-90-0.0045-0.0078.csv,Nonproportional
+E235-90-0.005-0.0087.csv,Nonproportional
+E355-0-0.0035.csv,Pure Shear
+E355-0-0.0052.csv,Pure Shear
+E355-0-0.0069.csv,Pure Shear
+E355-0-0.0087.csv,Pure Shear
+E355-0-0.0104.csv,Pure Shear
+E355-0-0.0121.csv,Pure Shear
+E355-0-0.0139.csv,Pure Shear
+E355-0.002-0.csv,Uniaxial
+E355-0.0021-0.0037.csv,Proportional
+E355-0.0028-0.0049.csv,Proportional
+E355-0.003-0.csv,Uniaxial
+E355-0.0035-0.0061.csv,Proportional
+E355-0.004-0.csv,Uniaxial
+E355-0.0042-0.0073.csv,Proportional
+E355-0.0049-0.0086.csv,Proportional
+E355-0.005-0.csv,Uniaxial
+E355-0.0057-0.0098.csv,Proportional
+E355-0.006-0.csv,Uniaxial
+E355-0.007-0.csv,Uniaxial
+E355-0.008-0.csv,Uniaxial
+E355-2-1-0.0016-0.0028.csv,Nonproportional
+E355-2-1-0.002-0.0035.csv,Nonproportional
+E355-2-1-0.0024-0.0042.csv,Nonproportional
+E355-2-1-0.0028-0.0048.csv,Nonproportional
+E355-2-1-0.0032-0.0055.csv,Nonproportional
+E355-2-1-0.0040-0.0069.csv,Nonproportional
+E355-2-1-0.0044-0.0076.csv,Nonproportional
+E355-2-12-0.0018-0.0018.csv,Nonproportional
+E355-2-12-0.0022-0.0023.csv,Nonproportional
+E355-2-12-0.0026-0.0027.csv,Nonproportional
+E355-2-12-0.0031-0.0032.csv,Nonproportional
+E355-2-12-0.0035-0.0036.csv,Nonproportional
+E355-2-12-0.0044-0.0046.csv,Nonproportional
+E355-2-12-0.0048-0.0050.csv,Nonproportional
+E355-2-8-0.0026-0.0044.csv,Nonproportional
+E355-2-8-0.0029-0.0051.csv,Nonproportional
+E355-2-8-0.0037-0.0063.csv,Nonproportional
+E355-2-8-0.0040-0.0070.csv,Nonproportional
+E355-20-14-0.0014-0.0025.csv,Nonproportional
+E355-20-14-0.0018-0.0031.csv,Nonproportional
+E355-20-14-0.0021-0.0037.csv,Nonproportional
+E355-20-14-0.0025-0.0043.csv,Nonproportional
+E355-20-14-0.0028-0.0049.csv,Nonproportional
+E355-20-14-0.0036-0.0061.csv,Nonproportional
+E355-20-14-0.0039-0.0068.csv,Nonproportional
+E355-8-2-0.0009-0.0033.csv,Nonproportional
+E355-8-2-0.0014-0.0049.csv,Nonproportional
+E355-8-2-0.0016-0.0057.csv,Nonproportional
+E355-8-2-0.0019-0.0065.csv,Nonproportional
+E355-8-2-0.0021-0.0073.csv,Nonproportional
+E355-8-2-0.0024-0.0081.csv,Nonproportional
+E355-8-2-0.0026-0.0090.csv,Nonproportional
+E355-90-0.0019-0.0033.csv,Nonproportional
+E355-90-0.0024-0.0042.csv,Nonproportional
+E355-90-0.0029-0.0050.csv,Nonproportional
+E355-90-0.0034-0.0059.csv,Nonproportional
+E355-90-0.0039-0.0068.csv,Nonproportional
+E355-90-0.0049-0.0085.csv,Nonproportional
+E355-90-0.0054-0.0094.csv,Nonproportional
+GH4169-0-0.00424-0.00735.csv,Proportional
+GH4169-0-0.00566-0.00980.csv,Proportional
+GH4169-45-0.00537-0.00929.csv,Nonproportional
+GH4169-45-0.00716-0.01239.csv,Nonproportional
+GH4169-90-0.006-0.01039.csv,Nonproportional
+GH4169-90-0.008-0.01386.csv,Nonproportional
+Haynes188-760-A-0.00368.csv,Uniaxial
+Haynes188-760-A-0.00416.csv,Uniaxial
+Haynes188-760-A-0.00462.csv,Uniaxial
+Haynes188-760-A-0.006.csv,Uniaxial
+Haynes188-760-A-0.00768.csv,Uniaxial
+Haynes188-760-A-0.01106.csv,Uniaxial
+Haynes188-760-A-0.02784.csv,Uniaxial
+Haynes188-760-T-0.00727.csv,Pure Shear
+Haynes188-760-T-0.00972.csv,Pure Shear
+Haynes188-760-T-0.01314.csv,Pure Shear
+Haynes188-760-T-0.01321.csv,Pure Shear
+Haynes188-760-T-0.01966.csv,Pure Shear
+Haynes188-760-T-0.02917.csv,Pure Shear
+Haynes188-760-T-0.049.csv,Pure Shear
+HRB335-0.002.csv,Uniaxial
+HRB335-0.0026.csv,Pure Shear
+HRB335-0.003.csv,Uniaxial
+HRB335-0.00346.csv,Pure Shear
+HRB335-0.004.csv,Uniaxial
+HRB335-0.005.csv,Uniaxial
+HRB335-0.00520.csv,Pure Shear
+HRB335-0.006.csv,Uniaxial
+HRB335-0.00693.csv,Nonproportional
+HRB335-0.00866.csv,Pure Shear
+HRB335-0.01039.csv,Pure Shear
+HRB335-90-0.002-00346.csv,Nonproportional
+HRB335-90-0.003-00520.csv,Nonproportional
+HRB335-90-0.004-00693.csv,Nonproportional
+HRB335-90-0.005-00866.csv,Nonproportional
+HRB335-L90-0.002-00346.csv,Nonproportional
+HRB335-L90-0.003-0052.csv,Nonproportional
+HRB335-L90-0.004-00693.csv,Nonproportional
+HRB335-L90-0.005-00866.csv,Nonproportional
+HRB335-LX-0.0014-0.00245.csv,Nonproportional
+HRB335-LX-0.0021-0.00367.csv,Nonproportional
+HRB335-LX-0.0028-0.0049.csv,Nonproportional
+HRB335-LX-0.0042-0.00735.csv,Nonproportional
+inconel718-A-0.00346-0.00603.csv,Proportional
+inconel718-A-0.00354-0.00598.csv,Proportional
+inconel718-B-0.00353-0.00614.csv,Nonproportional
+inconel718-B-0.00360-0.00619.csv,Nonproportional
+inconel718-C-0.00357-0.00618.csv,Nonproportional
+inconel718-C-0.00358-0.00618.csv,Nonproportional
+inconel718-D-0.00356-0.00616.csv,Nonproportional
+inconel718-D-0.00359-0.00617.csv,Nonproportional
+inconel718-E-0.00356-0.00616.csv,Nonproportional
+inconel718-E-0.00358-0.00616.csv,Nonproportional
+inconel718-F-0.00355-0.00615.csv,Nonproportional
+inconel718-F-0.00356-0.00619.csv,Nonproportional
+mild-0.001-0.0019.csv,Proportional
+mild-0.0013-0.0029.csv,Proportional
+mild-0.0034-0.0062.csv,Proportional
+mild-130-0.00096-0.0018.csv,Nonproportional
+mild-90-0.00067-0.00105.csv,Nonproportional
+mild-90-0.001-0.00185.csv,Nonproportional
+mild-90-0.00105-0.00184.csv,Nonproportional
+mild-90-0.0013-0.0023.csv,Nonproportional
+mild-90-0.00235-0.0043.csv,Nonproportional
+mild-90-0.0025-0.0059.csv,Nonproportional
+PA38-T6-ASN1-0.0016-0.0028.csv,Nonproportional
+PA38-T6-ASN1-0.0020-0.0035.csv,Nonproportional
+PA38-T6-ASN1-0.0024-0.0042.csv,Nonproportional
+PA38-T6-ASN1-0.0032-0.0055.csv,Nonproportional
+PA38-T6-ASN1-0.0036-0.0062.csv,Nonproportional
+PA38-T6-ASN1-0.0040-0.0069.csv,Nonproportional
+PA38-T6-ASN1-0.0048-0.0083.csv,Nonproportional
+PA38-T6-ASN2a-0.0019-0.0933.csv,Nonproportional
+PA38-T6-ASN2a-0.0024-0.0020.csv,Nonproportional
+PA38-T6-ASN2a-0.0028-0.0024.csv,Nonproportional
+PA38-T6-ASN2a-0.0038-0.0033.csv,Nonproportional
+PA38-T6-ASN2a-0.0042-0.0037.csv,Nonproportional
+PA38-T6-ASN2a-0.0047-0.0041.csv,Nonproportional
+PA38-T6-ASN2a-0.0056-0.0049.csv,Nonproportional
+PA38-T6-ASN3a-0.0009-0.0031.csv,Nonproportional
+PA38-T6-ASN3a-0.0011-0.0039.csv,Nonproportional
+PA38-T6-ASN3a-0.0013-0.0046.csv,Nonproportional
+PA38-T6-ASN3a-0.0018-0.0062.csv,Nonproportional
+PA38-T6-ASN3a-0.0020-0.0070.csv,Nonproportional
+PA38-T6-ASN3a-0.0022-0.0077.csv,Nonproportional
+PA38-T6-ASN3a-0.0027-0.0093.csv,Nonproportional
+PA38-T6-ASN4c-0.0014-0.0025.csv,Nonproportional
+PA38-T6-ASN4c-0.0018-0.0031.csv,Nonproportional
+PA38-T6-ASN4c-0.0021-0.0037.csv,Nonproportional
+PA38-T6-ASN4c-0.0029-0.0049.csv,Nonproportional
+PA38-T6-ASN4c-0.0032-0.0056.csv,Nonproportional
+PA38-T6-ASN4c-0.0036-0.0062.csv,Nonproportional
+PA38-T6-ASN4c-0.0043-0.0074.csv,Nonproportional
+PA38-T6-ASN5-0.0014-0.0025.csv,Nonproportional
+PA38-T6-ASN5-0.0018-0.0031.csv,Nonproportional
+PA38-T6-ASN5-0.0021-0.0037.csv,Nonproportional
+PA38-T6-ASN5-0.0028-0.0049.csv,Nonproportional
+PA38-T6-ASN5-0.0032-0.0055.csv,Nonproportional
+PA38-T6-ASN5-0.0036-0.0061.csv,Nonproportional
+PA38-T6-ASN5-0.0043-0.0074.csv,Nonproportional
+PA38-T6-IP-0.0014-0.0024.csv,Proportional
+PA38-T6-IP-0.0021-0.0037.csv,Proportional
+PA38-T6-IP-0.0028-0.0049.csv,Proportional
+PA38-T6-IP-0.0035-0.0061.csv,Proportional
+PA38-T6-IP-0.0042-0.0073.csv,Proportional
+PA38-T6-IP-0.0049-0.0086.csv,Proportional
+PA38-T6-IP-0.0057-0.0098.csv,Proportional
+PA38-T6-OP-0.0020-0.0035.csv,Nonproportional
+PA38-T6-OP-0.0025-0.0043.csv,Nonproportional
+PA38-T6-OP-0.0030-0.0052.csv,Nonproportional
+PA38-T6-OP-0.0040-0.0069.csv,Nonproportional
+PA38-T6-OP-0.0045-0.0078.csv,Nonproportional
+PA38-T6-OP-0.0050-0.0087.csv,Nonproportional
+PA38-T6-OP-0.0060-0.0104.csv,Nonproportional
+PA38-T6-TC-0.0020.csv,Uniaxial
+PA38-T6-TC-0.0030.csv,Uniaxial
+PA38-T6-TC-0.0040.csv,Uniaxial
+PA38-T6-TC-0.0047.csv,Uniaxial
+PA38-T6-TC-0.0050.csv,Uniaxial
+PA38-T6-TC-0.0060.csv,Uniaxial
+PA38-T6-TC-0.0070.csv,Uniaxial
+PA38-T6-TC-0.0080.csv,Uniaxial
+PA38-T6-TOR-0.0035.csv,Pure Shear
+PA38-T6-TOR-0.0052.csv,Pure Shear
+PA38-T6-TOR-0.0069.csv,Pure Shear
+PA38-T6-TOR-0.0087.csv,Pure Shear
+PA38-T6-TOR-0.0104.csv,Pure Shear
+PA38-T6-TOR-0.0121.csv,Pure Shear
+PA38-T6-TOR-0.0139.csv,Pure Shear
+pureTi-0.0055-0.0075.csv,Proportional
+pureTi-0.0059-0.0103.csv,Proportional
+pureTi-0.0072-0.0094.csv,Proportional
+pureTi-0.0078-0.0100.csv,Proportional
+pureTi-0.0078-0.0134.csv,Proportional
+pureTi-0.0082-0.0107.csv,Proportional
+pureTi-45-0.0053-0.0095.csv,Nonproportional
+pureTi-45-0.0071-0.0123.csv,Nonproportional
+pureTi-45-0.0087-0.0150.csv,Nonproportional
+pureTi-90-0.0070-0.0121.csv,Nonproportional
+pureTi-90-0.0090-0.0156.csv,Nonproportional
+pureTi-90-0.0110-0.0191.csv,Nonproportional
+q235b-0.00141-00245.csv,Proportional
+q235b-0.00153-00265.csv,Nonproportional
+q235b-0.002.csv,Uniaxial
+q235b-0.00212-00367.csv,Proportional
+q235b-0.00230-00398.csv,Nonproportional
+q235b-0.0026.csv,Pure Shear
+q235b-0.00283-00490.csv,Proportional
+q235b-0.003.csv,Uniaxial
+q235b-0.00306-00530.csv,Nonproportional
+q235b-0.00346.csv,Pure Shear
+q235b-0.00354-00612.csv,Proportional
+q235b-0.00383-00663.csv,Nonproportional
+q235b-0.004.csv,Uniaxial
+q235b-0.00424-00735.csv,Proportional
+q235b-0.00459-00795.csv,Nonproportional
+q235b-0.005.csv,Uniaxial
+q235b-0.00520.csv,Pure Shear
+q235b-0.006.csv,Uniaxial
+q235b-0.00693.csv,Pure Shear
+q235b-0.008.csv,Uniaxial
+q235b-0.00866.csv,Pure Shear
+q235b-0.01039.csv,Pure Shear
+q235b-90-0.0015-00260.csv,Nonproportional
+q235b-90-0.002-00346.csv,Nonproportional
+q235b-90-0.003-00520.csv,Nonproportional
+q235b-90-0.004-00693.csv,Nonproportional
+q235b-90-0.005-00866.csv,Nonproportional
+q235b-L45-0.00181-00314.csv,Nonproportional
+q235b-L45-0.00272-00471.csv,Nonproportional
+q235b-L45-0.00363-00628.csv,Nonproportional
+q235b-L45-0.00453-00785.csv,Nonproportional
+q235b-L45-0.00544-00942.csv,Nonproportional
+q235b-L90-0.0015-00260.csv,Nonproportional
+q235b-L90-0.002-00346.csv,Nonproportional
+q235b-L90-0.003-0052.csv,Nonproportional
+q235b-L90-0.004-00693.csv,Nonproportional
+q235b-L90-0.005-00866.csv,Nonproportional
+q235b-L90-0.006-01039.csv,Nonproportional
+S347-A-0.0025.csv,Uniaxial
+S347-A-0.0035.csv,Uniaxial
+S347-A-0.004.csv,Uniaxial
+S347-A-0.005.csv,Uniaxial
+S347-A-0.006.csv,Uniaxial
+S347-A-0.008.csv,Uniaxial
+S347-A-0.01.csv,Uniaxial
+S347-B-0.01.csv,Pure Shear
+S347-C-0.0017-0.003.csv,Proportional
+S347-C-0.00173-0.003.csv,Proportional
+S347-C-0.0023-0.004.csv,Proportional
+S347-C-0.00346-0.006.csv,Proportional
+S347-C-0.00577-0.01.csv,Proportional
+S347-D-0.00231-0.004.csv,Nonproportional
+S347-D-0.00346-0.006.csv,Nonproportional
+S347-D-0.00577-0.01.csv,Nonproportional
+S347-E-0.00231-0.004.csv,Nonproportional
+S347-E-0.00346-0.006.csv,Nonproportional
+S347-E-0.00577-0.01.csv,Nonproportional
+S45C-AAT01.csv,Proportional
+S45C-AAT02.csv,Proportional
+S45C-AAT03.csv,Proportional
+S45C-AC-0.003.csv,Uniaxial
+S45C-AC-0.004.csv,Uniaxial
+S45C-AC-0.005.csv,Uniaxial
+S45C-AC-0.01.csv,Uniaxial
+S45C-AC-0.015.csv,Uniaxial
+S45C-AC-0.025.csv,Uniaxial
+S45C-AP01.csv,Nonproportional
+S45C-AP02.csv,Nonproportional
+S45C-AVAR02.csv,Uniaxial
+S45C-AVAR04.csv,Uniaxial
+S45C-AVAR06.csv,Uniaxial
+S45C-B-0.0077-0.0066.csv,Nonproportional
+S45C-COP-22.5-0.018-0.0082.csv,Nonproportional
+S45C-COP-45-0.006-0.0055.csv,Nonproportional
+S45C-COP-45-0.018-0.0082.csv,Nonproportional
+S45C-COP-90-0.006-0.0055.csv,Nonproportional
+S45C-COP-90-0.009-0.0041.csv,Nonproportional
+S45C-CPRO-0.0036-0.0065.csv,Proportional
+S45C-CPRO-0.006-0.0052.csv,Proportional
+S45C-CPRO-0.0072-0.0065.csv,Proportional
+S45C-CPRO-0.009-0.0041.csv,Proportional
+S45C-CPRO-0.009-0.0082.csv,Proportional
+S45C-PVAR01.csv,Nonproportional
+S45C-PVAR02.csv,Proportional
+S45C-R01.csv,Nonproportional
+S45C-R02.csv,Nonproportional
+S45C-TC-0.003.csv,Pure Shear
+S45C-TC-0.004.csv,Pure Shear
+S45C-TC-0.005.csv,Pure Shear
+S45C-TC-0.006.csv,Pure Shear
+S45C-TC-0.008.csv,Pure Shear
+S45C-TC-0.009.csv,Pure Shear
+S45C-TC-0.015.csv,Pure Shear
+S45C-TVAR02.csv,Pure Shear
+S45C-TVAR03.csv,Pure Shear
+S45C-TVAR04.csv,Pure Shear
+S45C-TVAR05.csv,Pure Shear
+S45C-TVAR07.csv,Pure Shear
+S460N-a-0.00104-0.0018.csv,Proportional
+S460N-a-0.00144-0.0025.csv,Proportional
+S460N-a-0.00173-0.003.csv,Proportional
+S460N-b-0.00104-0.0018.csv,Nonproportional
+S460N-b-0.00115-0.002.csv,Nonproportional
+S460N-b-0.00144-0.0025.csv,Nonproportional
+S460N-b-0.00173-0.003.csv,Nonproportional
+S460N-b-0.00231-0.004.csv,Nonproportional
+S460N-b-0.00404-0.007.csv,Nonproportional
+S460N-c-0.00115-0.002.csv,Nonproportional
+S460N-c-0.00144-0.0025.csv,Nonproportional
+S460N-c-0.00173-0.003.csv,Nonproportional
+S460N-d-0.00115-0.002.csv,Nonproportional
+S460N-d-0.00144-0.0025.csv,Nonproportional
+S460N-e-0.00144-0.0025.csv,Nonproportional
+S460N-e-0.00173-0.003.csv,Nonproportional
+S460N-f-0.00173-0.003.csv,Nonproportional
+S460N-f-0.00231-0.004.csv,Nonproportional
+S460N-g-0.00173-0.003.csv,Proportional
+S460N-g-0.0026-0.0045.csv,Proportional
+S460N-h-0.00173-0.003.csv,Nonproportional
+S460N-h-0.002-0.00346.csv,Nonproportional
+S460N-h-0.003-0.0052.csv,Nonproportional
+S460N-i-0.00173-0.003.csv,Nonproportional
+S460N-i-0.003-0.0052.csv,Nonproportional
+S460N-j-0.00144-0.0025.csv,Nonproportional
+S460N-j-0.00173-0.003.csv,Nonproportional
+S460N-k-0.00144-0.0025.csv,Nonproportional
+S460N-k-0.00173-0.003.csv,Nonproportional
+S460N-l-0.00144-0.0025.csv,Nonproportional
+S460N-m-0.0025.csv,Nonproportional
+S460N-m-0.003.csv,Nonproportional
+S460N-m-0.004.csv,Nonproportional
+S460N-ten-0.0022.csv,Uniaxial
+S460N-ten-0.0033.csv,Uniaxial
+S460N-ten-0.005.csv,Uniaxial
+S460N-tor-0.0043.csv,Pure Shear
+S460N-tor-0.0045.csv,Pure Shear
+S460N-tor-0.01.csv,Pure Shear
+SNCM630-AP.csv,Nonproportional
+SNCM630-AT01.csv,Proportional
+SNCM630-AT05.csv,Proportional
+SNCM630-B.csv,Nonproportional
+SNCM630-COP45.csv,Nonproportional
+SNCM630-COP90.csv,Nonproportional
+SNCM630-CP.csv,Proportional
+SNCM630-CPCOP.csv,Nonproportional
+SNCM630-PV.csv,Nonproportional
+SNCM630-R01.csv,Nonproportional
+SNCM630-R02.csv,Nonproportional
+SNCM630-R03.csv,Nonproportional
+SNCM630-SI03.csv,Proportional
+SNCM630-SI06.csv,Proportional
+SNCM630-SO03.csv,Nonproportional
+SNCM630-SO06.csv,Nonproportional
+SNCM630-TA05.csv,Proportional
+TC4-0-0.00345-0.00648.csv,Proportional
+TC4-0-0.00427-0.00710.csv,Proportional
+TC4-0-0.00576-0.00938.csv,Proportional
+TC4-0-0.00687-0.01111.csv,Proportional
+TC4-0-0.00863-0.01371.csv,Proportional
+TC4-0-0.01391-0.02038.csv,Proportional
+TC4-45-0.00391-0.00643.csv,Nonproportional
+TC4-45-0.00418-0.00702.csv,Nonproportional
+TC4-45-0.00496-0.00831.csv,Nonproportional
+TC4-45-0.00620-0.01043.csv,Nonproportional
+TC4-45-0.00772-0.01255.csv,Nonproportional
+TC4-45-0.01224-0.01756.csv,Nonproportional
+TC4-90-0.00349-0.00639.csv,Nonproportional
+TC4-90-0.00418-0.00704.csv,Nonproportional
+TC4-90-0.00499-0.00821.csv,Nonproportional
+TC4-90-0.00556-0.00934.csv,Nonproportional
+TC4-90-0.00632-0.01079.csv,Nonproportional
+TC4-90-0.01229-0.01700.csv,Nonproportional
+TC4-e-0.0055.csv,Uniaxial
+TC4-e-0.006.csv,Uniaxial
+TC4-e-0.007.csv,Uniaxial
+TC4-e-0.008.csv,Uniaxial
+TC4-e-0.009.csv,Uniaxial
+TC4-e-0.011.csv,Uniaxial
+TC4-e-0.013.csv,Uniaxial
+TC4-e-0.015.csv,Uniaxial
+TC4-e-0.017.csv,Uniaxial
+TC4-e-0.02.csv,Uniaxial
+TC4-e-0.023.csv,Uniaxial
+TC4-g-0.00798.csv,Pure Shear
+TC4-g-0.00833.csv,Pure Shear
+TC4-g-0.00848.csv,Pure Shear
+TC4-g-0.00889.csv,Pure Shear
+TC4-g-0.01038.csv,Pure Shear
+TC4-g-0.01302.csv,Pure Shear
+TC4-g-0.01645.csv,Pure Shear
+TC4-g-0.01942.csv,Pure Shear
+TC4-g-0.02309.csv,Pure Shear
+X5CrNi-0-0.0069.csv,Pure Shear
+X5CrNi-0-0.0087.csv,Pure Shear
+X5CrNi-0-0.0095.csv,Pure Shear
+X5CrNi-0-0.0104.csv,Pure Shear
+X5CrNi-0-0.0113.csv,Pure Shear
+X5CrNi-0-0.0121.csv,Pure Shear
+X5CrNi-0-0.0139.csv,Pure Shear
+X5CrNi-0.0028-0.0049.csv,Proportional
+X5CrNi-0.0035-0.0061.csv,Proportional
+X5CrNi-0.0039-0.0067.csv,Proportional
+X5CrNi-0.004-0.csv,Uniaxial
+X5CrNi-0.0042-0.0073.csv,Proportional
+X5CrNi-0.0046-0.0080.csv,Proportional
+X5CrNi-0.0049-0.0086.csv,Proportional
+X5CrNi-0.005-0.csv,Uniaxial
+X5CrNi-0.0055-0.csv,Uniaxial
+X5CrNi-0.0057-0.0098.csv,Proportional
+X5CrNi-0.006-0.csv,Uniaxial
+X5CrNi-0.0065-0.csv,Uniaxial
+X5CrNi-0.007-0.csv,Uniaxial
+X5CrNi-0.008-0.csv,Uniaxial
+X5CrNi-1-4-0.0033-0.0029.csv,Nonproportional
+X5CrNi-1-4-0.0038-0.0033.csv,Nonproportional
+X5CrNi-1-4-0.0047-0.0041.csv,Nonproportional
+X5CrNi-1-4-0.0052-0.0045.csv,Nonproportional
+X5CrNi-1-4-0.0056-0.0049.csv,Nonproportional
+X5CrNi-1-4-0.0061-0.0053.csv,Nonproportional
+X5CrNi-1-4-0.0066-0.0057.csv,Nonproportional
+X5CrNi-10-2-0.0016-0.0054.csv,Nonproportional
+X5CrNi-10-2-0.0018-0.0062.csv,Nonproportional
+X5CrNi-10-2-0.0022-0.0077.csv,Nonproportional
+X5CrNi-10-2-0.0025-0.0085.csv,Nonproportional
+X5CrNi-10-2-0.0027-0.0093.csv,Nonproportional
+X5CrNi-10-2-0.0029-0.0101.csv,Nonproportional
+X5CrNi-10-2-0.0031-0.0108.csv,Nonproportional
+X5CrNi-2-1-0.0028-0.0048.csv,Nonproportional
+X5CrNi-2-1-0.0032-0.0055.csv,Nonproportional
+X5CrNi-2-1-0.0040-0.0069.csv,Nonproportional
+X5CrNi-2-1-0.0044-0.0076.csv,Nonproportional
+X5CrNi-2-1-0.0048-0.0083.csv,Nonproportional
+X5CrNi-2-1-0.0052-0.0090.csv,Nonproportional
+X5CrNi-2-1-0.0056-0.0097.csv,Nonproportional
+X5CrNi-2-12-0.0031-0.0032.csv,Nonproportional
+X5CrNi-2-12-0.0035-0.0036.csv,Nonproportional
+X5CrNi-2-12-0.0044-0.0046.csv,Nonproportional
+X5CrNi-2-12-0.0048-0.0050.csv,Nonproportional
+X5CrNi-2-12-0.0053-0.0055.csv,Nonproportional
+X5CrNi-2-12-0.0057-0.0059.csv,Nonproportional
+X5CrNi-2-12-0.0061-0.0064.csv,Nonproportional
+X5CrNi-20-14-0.0025-0.0043.csv,Nonproportional
+X5CrNi-20-14-0.0028-0.0049.csv,Nonproportional
+X5CrNi-20-14-0.0036-0.0061.csv,Nonproportional
+X5CrNi-20-14-0.0039-0.0068.csv,Nonproportional
+X5CrNi-20-14-0.0046-0.0080.csv,Nonproportional
+X5CrNi-20-14-0.0050-0.0086.csv,Nonproportional
+X5CrNi-20-14-0.0053-0.0091.csv,Nonproportional
+X5CrNi-90-0.0035-0.0061.csv,Nonproportional
+X5CrNi-90-0.0040-0.0069.csv,Nonproportional
+X5CrNi-90-0.0050-0.0087.csv,Nonproportional
+X5CrNi-90-0.0055-0.0095.csv,Nonproportional
+X5CrNi-90-0.0060-0.0104.csv,Nonproportional
+X5CrNi-90-0.0065-0.0113.csv,Nonproportional
+X5CrNi-90-0.0070-0.0121.csv,Nonproportional
+ZK60-0-0.0028-0.0060.csv,Proportional
+ZK60-0-0.0032-0.0040.csv,Proportional
+ZK60-0-0.0032-0.0046.csv,Proportional
+ZK60-0-0.0036-0.0050.csv,Proportional
+ZK60-0-0.0043-0.0040.csv,Proportional
+ZK60-0-0.0043-0.0046.csv,Proportional
+ZK60-0-0.005-0.0035.csv,Proportional
+ZK60-90-0.0028-0.0060.csv,Nonproportional
+ZK60-90-0.0032-0.0040.csv,Nonproportional
+ZK60-90-0.0032-0.0046.csv,Nonproportional
+ZK60-90-0.0036-0.0050.csv,Nonproportional
+ZK60-90-0.0043-0.0040.csv,Nonproportional
+ZK60-90-0.0043-0.0046.csv,Nonproportional
+ZK60-90-0.005-0.0035.csv,Nonproportional

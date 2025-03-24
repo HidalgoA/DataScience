@@ -1,0 +1,3 @@
+Two regression models for HW3; Bayesian Regression and GPR. 
+
+Bayesian is within the pymc3 Examples folder, be sure to run 3.8 Interpreter 

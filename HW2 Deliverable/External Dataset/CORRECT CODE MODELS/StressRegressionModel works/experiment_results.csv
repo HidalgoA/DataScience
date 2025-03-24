@@ -1,0 +1,361 @@
+csv_transform,material_transform,target_transform,model,best_params,cv_score,test_r2,test_r2_inv
+csv_none,material_none,target_none,Ridge,{'regressor__alpha': np.float64(0.001)},0.25658575249892907,0.3377075386042502,0.3377075386042502
+csv_none,material_none,target_none,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.23802455230481973,0.3962023966022531,0.3962023966022531
+csv_none,material_none,target_none,ElasticNet,"{'regressor__alpha': np.float64(2.154434690031882), 'regressor__l1_ratio': 0.2}",0.24335604354414064,0.3965646577277089,0.3965646577277089
+csv_none,material_none,target_log,Ridge,{'regressor__alpha': np.float64(0.001)},0.28441556528960205,0.2900754886588168,0.29372983132329855
+csv_none,material_none,target_log,Lasso,{'regressor__alpha': np.float64(0.1)},0.28108676797578197,0.4001190044855989,0.37759145709959474
+csv_none,material_none,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.021544346900318832), 'regressor__l1_ratio': 0.8}",0.2695676776179691,0.3770727341127217,0.3713845209564123
+csv_none,material_none,target_boxcox,Ridge,{'regressor__alpha': np.float64(0.001)},0.256832362157894,0.33754025088527606,0.33750835000933865
+csv_none,material_none,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.23721134940176092,0.39623408028694296,0.39606765074978223
+csv_none,material_none,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(2.154434690031882), 'regressor__l1_ratio': 0.2}",0.2441625646572644,0.39660314191073953,0.39643653567062487
+csv_none,material_none,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(0.001)},0.2571684602009229,0.3373141698676223,0.33723743147910623
+csv_none,material_none,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.12812875772057014,0.30576400878997045,0.3070239168748313
+csv_none,material_none,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.8}",0.28258089333998054,0.25507724097383,0.2575302320132067
+csv_none,material_standardize,target_none,Ridge,{'regressor__alpha': np.float64(0.001)},0.2619719721955601,0.33003611366112895,0.33003611366112895
+csv_none,material_standardize,target_none,Lasso,{'regressor__alpha': np.float64(10.0)},0.11179029695191378,0.1328780486218667,0.1328780486218667
+csv_none,material_standardize,target_none,ElasticNet,"{'regressor__alpha': np.float64(46.41588833612773), 'regressor__l1_ratio': 0.2}",0.10865245511586838,0.13795898055652134,0.13795898055652134
+csv_none,material_standardize,target_log,Ridge,{'regressor__alpha': np.float64(0.001)},0.28747030672363677,0.27859183374370067,0.2848306321320614
+csv_none,material_standardize,target_log,Lasso,{'regressor__alpha': np.float64(2.154434690031882)},0.12562551690484774,0.12655475357747958,0.12042963038409904
+csv_none,material_standardize,target_log,ElasticNet,"{'regressor__alpha': np.float64(10.0), 'regressor__l1_ratio': 0.2}",0.12356973156207329,0.13173378042333472,0.12558585081563045
+csv_none,material_standardize,target_boxcox,Ridge,{'regressor__alpha': np.float64(0.001)},0.26220128541365517,0.3298534771382957,0.3298340751206601
+csv_none,material_standardize,target_boxcox,Lasso,{'regressor__alpha': np.float64(10.0)},0.11217566656261231,0.1322395434526088,0.13219634448081496
+csv_none,material_standardize,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(46.41588833612773), 'regressor__l1_ratio': 0.2}",0.10911442978073219,0.13738960660416566,0.13734517680273228
+csv_none,material_standardize,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(0.001)},0.2625224323622354,0.32959465024013146,0.32954868096164514
+csv_none,material_standardize,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(10.0)},0.09962559992105449,0.14831698066416654,0.14819726306064984
+csv_none,material_standardize,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.2930588722603063,0.16942590210514208,0.17333906581480663
+csv_none,material_normalize,target_none,Ridge,{'regressor__alpha': np.float64(0.001)},0.26188669907113793,0.33021305230743614,0.33021305230743614
+csv_none,material_normalize,target_none,Lasso,{'regressor__alpha': np.float64(10.0)},0.11179029695191378,0.1328780486218667,0.1328780486218667
+csv_none,material_normalize,target_none,ElasticNet,"{'regressor__alpha': np.float64(46.41588833612773), 'regressor__l1_ratio': 0.2}",0.10865245511586838,0.13795898055652134,0.13795898055652134
+csv_none,material_normalize,target_log,Ridge,{'regressor__alpha': np.float64(0.001)},0.2871250519444654,0.2790811816031151,0.28521263286445264
+csv_none,material_normalize,target_log,Lasso,{'regressor__alpha': np.float64(2.154434690031882)},0.12562551690484774,0.12655475357747958,0.12042963038409904
+csv_none,material_normalize,target_log,ElasticNet,"{'regressor__alpha': np.float64(10.0), 'regressor__l1_ratio': 0.2}",0.12356973156207329,0.13173378042333472,0.12558585081563045
+csv_none,material_normalize,target_boxcox,Ridge,{'regressor__alpha': np.float64(0.001)},0.26211763181675174,0.33002975219328357,0.33001007035005014
+csv_none,material_normalize,target_boxcox,Lasso,{'regressor__alpha': np.float64(10.0)},0.11217566656261231,0.1322395434526088,0.13219634448081496
+csv_none,material_normalize,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(46.41588833612773), 'regressor__l1_ratio': 0.2}",0.10911442978073219,0.13738960660416566,0.13734517680273228
+csv_none,material_normalize,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(0.001)},0.26243132174135536,0.3297723462994778,0.3297256984311987
+csv_none,material_normalize,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(10.0)},0.09962559992105449,0.14831698066416654,0.14819726306064984
+csv_none,material_normalize,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.1656686712293986,0.22730483364351006,0.22842027311745627
+csv_none,material_std_then_norm,target_none,Ridge,{'regressor__alpha': np.float64(0.001)},0.26188669907122913,0.3302130523073449,0.3302130523073449
+csv_none,material_std_then_norm,target_none,Lasso,{'regressor__alpha': np.float64(10.0)},0.11179029695191378,0.1328780486218667,0.1328780486218667
+csv_none,material_std_then_norm,target_none,ElasticNet,"{'regressor__alpha': np.float64(46.41588833612773), 'regressor__l1_ratio': 0.2}",0.10865245511586838,0.13795898055652134,0.13795898055652134
+csv_none,material_std_then_norm,target_log,Ridge,{'regressor__alpha': np.float64(0.001)},0.28712505194442156,0.27908118160303474,0.2852126328643424
+csv_none,material_std_then_norm,target_log,Lasso,{'regressor__alpha': np.float64(2.154434690031882)},0.12562551690484774,0.12655475357747958,0.12042963038409904
+csv_none,material_std_then_norm,target_log,ElasticNet,"{'regressor__alpha': np.float64(10.0), 'regressor__l1_ratio': 0.2}",0.12356973156207329,0.13173378042333472,0.12558585081563045
+csv_none,material_std_then_norm,target_boxcox,Ridge,{'regressor__alpha': np.float64(0.001)},0.26211763181675574,0.33002975219322284,0.33001007034998864
+csv_none,material_std_then_norm,target_boxcox,Lasso,{'regressor__alpha': np.float64(10.0)},0.11217566656261231,0.1322395434526088,0.13219634448081496
+csv_none,material_std_then_norm,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(46.41588833612773), 'regressor__l1_ratio': 0.2}",0.10911442978073219,0.13738960660416566,0.13734517680273228
+csv_none,material_std_then_norm,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(0.001)},0.2624313217413313,0.3297723462994301,0.32972569843115007
+csv_none,material_std_then_norm,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(10.0)},0.09962559992105449,0.14831698066416654,0.14819726306064984
+csv_none,material_std_then_norm,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.16566867122939552,0.2273048336435085,0.22842027311745483
+csv_none,material_norm_then_std,target_none,Ridge,{'regressor__alpha': np.float64(0.001)},0.2619719721956562,0.3300361136606841,0.3300361136606841
+csv_none,material_norm_then_std,target_none,Lasso,{'regressor__alpha': np.float64(10.0)},0.11179029695191378,0.1328780486218667,0.1328780486218667
+csv_none,material_norm_then_std,target_none,ElasticNet,"{'regressor__alpha': np.float64(46.41588833612773), 'regressor__l1_ratio': 0.2}",0.10865245511586838,0.13795898055652134,0.13795898055652134
+csv_none,material_norm_then_std,target_log,Ridge,{'regressor__alpha': np.float64(0.001)},0.2874703067239007,0.2785918337447777,0.2848306321335491
+csv_none,material_norm_then_std,target_log,Lasso,{'regressor__alpha': np.float64(2.154434690031882)},0.12562551690484774,0.12655475357747958,0.12042963038409904
+csv_none,material_norm_then_std,target_log,ElasticNet,"{'regressor__alpha': np.float64(10.0), 'regressor__l1_ratio': 0.2}",0.12356973156207329,0.13173378042333472,0.12558585081563045
+csv_none,material_norm_then_std,target_boxcox,Ridge,{'regressor__alpha': np.float64(0.001)},0.2622012854131134,0.32985347713914936,0.3298340751215152
+csv_none,material_norm_then_std,target_boxcox,Lasso,{'regressor__alpha': np.float64(10.0)},0.11217566656261231,0.1322395434526088,0.13219634448081496
+csv_none,material_norm_then_std,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(46.41588833612773), 'regressor__l1_ratio': 0.2}",0.10911442978073219,0.13738960660416566,0.13734517680273228
+csv_none,material_norm_then_std,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(0.001)},0.2625224323610368,0.3295946502408392,0.3295486809623569
+csv_none,material_norm_then_std,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(10.0)},0.09962559992105449,0.14831698066416654,0.14819726306064984
+csv_none,material_norm_then_std,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.2930588722603046,0.16942590210514208,0.17333906581480663
+csv_log,material_none,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-4.126427969213564,0.3050760504940384,0.3050760504940384
+csv_log,material_none,target_none,Lasso,{'regressor__alpha': np.float64(0.1)},0.10790421622557378,0.1151951132411565,0.1151951132411565
+csv_log,material_none,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.8}",0.13389423013925378,0.1807693351827182,0.1807693351827182
+csv_log,material_none,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-3.6445251095434066,0.3000934715886955,0.2957816458009839
+csv_log,material_none,target_log,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.10884847097565983,0.110781420708425,0.090700300096485
+csv_log,material_none,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.021544346900318832), 'regressor__l1_ratio': 0.8}",0.13548095128178558,0.17523356502093057,0.1589131404541293
+csv_log,material_none,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-4.124255669480682,0.30508387630780065,0.3050379940252347
+csv_log,material_none,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.1)},0.10666851449329788,0.11196364551371762,0.11186632370195027
+csv_log,material_none,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.8}",0.13303279174974167,0.17856142147777143,0.17847637465550092
+csv_log,material_none,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-4.121234509292669,0.30509672868100046,0.30497830788237335
+csv_log,material_none,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.13847991494238748,0.19215872135874945,0.19195561662448346
+csv_log,material_none,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.2}",0.14715837198597576,0.1986250290079763,0.19842163434518234
+csv_log,material_standardize,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.7485637384539072,0.29729782783425485,0.29729782783425485
+csv_log,material_standardize,target_none,Lasso,{'regressor__alpha': np.float64(0.1)},0.10331964001748122,0.1564771099095119,0.1564771099095119
+csv_log,material_standardize,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.8}",0.14958720511185522,0.20410477908246683,0.20410477908246683
+csv_log,material_standardize,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.7438394429194426,0.2832519642961804,0.2892521010280277
+csv_log,material_standardize,target_log,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.10599109474965954,0.14348199239141113,0.1316152697885512
+csv_log,material_standardize,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.021544346900318832), 'regressor__l1_ratio': 0.8}",0.14939269677650224,0.1856706187864604,0.17878879777020595
+csv_log,material_standardize,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.7486811115880678,0.2972624002439791,0.2972657804385187
+csv_log,material_standardize,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.1)},0.10149112037156216,0.15420478194529075,0.15414415660913672
+csv_log,material_standardize,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.8}",0.1479834267435525,0.20221235822665284,0.2021714088823875
+csv_log,material_standardize,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.7488550145304529,0.2972158977006506,0.29721461929960546
+csv_log,material_standardize,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.15898653705172466,0.2122671985844221,0.2121723223529406
+csv_log,material_standardize,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.8}",0.18289559509728895,0.2332865602674572,0.23322443603683363
+csv_log,material_normalize,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.5392120493283766,0.2884896334310627,0.2884896334310627
+csv_log,material_normalize,target_none,Lasso,{'regressor__alpha': np.float64(0.1)},0.09374256263548653,0.15220034491380408,0.15220034491380408
+csv_log,material_normalize,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.13806376479394472,0.2272190620185881,0.2272190620185881
+csv_log,material_normalize,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.5524031077526901,0.2742335013722136,0.2798995828281249
+csv_log,material_normalize,target_log,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.0962159050345818,0.13967309780619885,0.12811050558655324
+csv_log,material_normalize,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.021544346900318832), 'regressor__l1_ratio': 0.5}",0.1426870865634803,0.22181757605732,0.2201195414965581
+csv_log,material_normalize,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.5393920605819273,0.28845277453755536,0.288455135268457
+csv_log,material_normalize,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.1)},0.09275501721259047,0.15042633497045865,0.15036628756600567
+csv_log,material_normalize,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.13755125608913019,0.22680852318609412,0.22678081437788178
+csv_log,material_normalize,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.539650554615756,0.2884044913465347,0.28840078695725313
+csv_log,material_normalize,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.11967146277688959,0.19778158484149677,0.19766494943141732
+csv_log,material_normalize,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.15107908162448241,0.24453491975036257,0.2445130568148267
+csv_log,material_std_then_norm,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.5392120493283764,0.2884896334310626,0.2884896334310626
+csv_log,material_std_then_norm,target_none,Lasso,{'regressor__alpha': np.float64(0.1)},0.09374256263548653,0.15220034491380408,0.15220034491380408
+csv_log,material_std_then_norm,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.13806376479394494,0.2272190620185881,0.2272190620185881
+csv_log,material_std_then_norm,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.55240310775269,0.2742335013722128,0.27989958282812377
+csv_log,material_std_then_norm,target_log,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.0962159050345818,0.13967309780619885,0.12811050558655324
+csv_log,material_std_then_norm,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.021544346900318832), 'regressor__l1_ratio': 0.5}",0.14268708656348056,0.2218175760573199,0.22011954149655777
+csv_log,material_std_then_norm,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.5393920605819275,0.2884527745375558,0.28845513526845734
+csv_log,material_std_then_norm,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.1)},0.09275501721259047,0.15042633497045865,0.15036628756600567
+csv_log,material_std_then_norm,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.1375512560891299,0.22680852318609368,0.22678081437788156
+csv_log,material_std_then_norm,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.5396505546157584,0.2884044913465349,0.28840078695725346
+csv_log,material_std_then_norm,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.11967146277688959,0.19778158484149677,0.19766494943141732
+csv_log,material_std_then_norm,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.15107908162448264,0.24453491975036268,0.24451305681482682
+csv_log,material_norm_then_std,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.7485637384539057,0.29729782783425496,0.29729782783425496
+csv_log,material_norm_then_std,target_none,Lasso,{'regressor__alpha': np.float64(0.1)},0.1033196400174811,0.1564771099095119,0.1564771099095119
+csv_log,material_norm_then_std,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.8}",0.14958720511185544,0.20410477908246705,0.20410477908246705
+csv_log,material_norm_then_std,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.7438394429194425,0.28325196429618016,0.28925210102802723
+csv_log,material_norm_then_std,target_log,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.10599109474965933,0.14348199239141146,0.13161526978855165
+csv_log,material_norm_then_std,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.021544346900318832), 'regressor__l1_ratio': 0.8}",0.14939269677650233,0.1856706187864604,0.17878879777020562
+csv_log,material_norm_then_std,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.7486811115880687,0.29726240024397854,0.29726578043851803
+csv_log,material_norm_then_std,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.1)},0.1014911203715619,0.15420478194528997,0.15414415660913638
+csv_log,material_norm_then_std,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.8}",0.14798342674355253,0.2022123582266534,0.20217140888238816
+csv_log,material_norm_then_std,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.748855014530452,0.2972158977006504,0.29721461929960546
+csv_log,material_norm_then_std,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.15898653705172489,0.21226719858442278,0.2121723223529408
+csv_log,material_norm_then_std,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.8}",0.18289559509728814,0.23328656026745676,0.23322443603683363
+csv_norm_log,material_none,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.025502630799229764,0.11006756148376295,0.11006756148376295
+csv_norm_log,material_none,target_none,Lasso,{'regressor__alpha': np.float64(0.1)},0.07502961375798048,0.06837190549350192,0.06837190549350192
+csv_norm_log,material_none,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.07634119222317085,0.057571450408551494,0.057571450408551494
+csv_norm_log,material_none,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.01729896224852263,0.11089147910163011,0.08731674731414696
+csv_norm_log,material_none,target_log,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.07867181850880811,0.08277212858370242,0.057239598854391116
+csv_norm_log,material_none,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.07920647052678617,0.07162681683565442,0.046748576092177974
+csv_norm_log,material_none,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.02544569750168313,0.11008491869793036,0.10996560336379779
+csv_norm_log,material_none,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.1)},0.0751146357754254,0.0683901182078468,0.06827288950718036
+csv_norm_log,material_none,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.07632682941181324,0.05747006110818431,0.05735872419788768
+csv_norm_log,material_none,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.025362749229458515,0.11011026478200159,0.10981931200681327
+csv_norm_log,material_none,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.07273541978337897,0.07021354336789187,0.0699266681325762
+csv_norm_log,material_none,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.07737302192235909,0.06227335259682276,0.061997871476554445
+csv_norm_log,material_standardize,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.01582185958583062,0.06952123103235186,0.06952123103235186
+csv_norm_log,material_standardize,target_none,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.04579563318636204,0.01951813424995774,0.01951813424995774
+csv_norm_log,material_standardize,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.04804843492053139,0.06907655729344153,0.06907655729344153
+csv_norm_log,material_standardize,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.013500353682137377,0.06000347279369245,0.04309061174009721
+csv_norm_log,material_standardize,target_log,Lasso,{'regressor__alpha': np.float64(0.004641588833612777)},0.04541771045919849,0.013601710158314462,0.006829164471121696
+csv_norm_log,material_standardize,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.021544346900318832), 'regressor__l1_ratio': 0.5}",0.05609556630395809,0.06514932382276506,0.04995742484475829
+csv_norm_log,material_standardize,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.015803989387278138,0.06948497283684307,0.06940439691088329
+csv_norm_log,material_standardize,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.04657007716891124,0.019876393990284624,0.01986712039304339
+csv_norm_log,material_standardize,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.04774568858825221,0.06945508309219528,0.06937845107582119
+csv_norm_log,material_standardize,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.01577755513342092,0.06943657980131024,0.06923748204935942
+csv_norm_log,material_standardize,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.026900645752137374,0.07246775340541634,0.07220949177242819
+csv_norm_log,material_standardize,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.05646572426901251,0.05567380696614066,0.055542374426804875
+csv_norm_log,material_normalize,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.021187301461172026,0.0640249382112189,0.0640249382112189
+csv_norm_log,material_normalize,target_none,Lasso,{'regressor__alpha': np.float64(0.1)},0.016081410334830924,0.05903380332697927,0.05903380332697927
+csv_norm_log,material_normalize,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.021851614521529374,0.04881673393156183,0.04881673393156183
+csv_norm_log,material_normalize,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.019493870134406066,0.05484071669801194,0.036853440540049354
+csv_norm_log,material_normalize,target_log,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.018055085612846834,0.06807022677895092,0.04306142685278458
+csv_norm_log,material_normalize,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.02201488808893486,0.05465833081324889,0.029670940499599063
+csv_norm_log,material_normalize,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.021173669196455934,0.06399013362340678,0.06390438271443555
+csv_norm_log,material_normalize,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.1)},0.01619344680992609,0.058892002258998044,0.058770685262810485
+csv_norm_log,material_normalize,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.021832030866941632,0.04873147350338769,0.048613849137736365
+csv_norm_log,material_normalize,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.021153171673786452,0.06394389280117496,0.06373236513309155
+csv_norm_log,material_normalize,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.019144866696948547,0.04083351539094393,0.04054949163894961
+csv_norm_log,material_normalize,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.8}",0.02109802515469896,0.04569074493810921,0.045404380426340096
+csv_norm_log,material_std_then_norm,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.021187301461172224,0.06402493821121935,0.06402493821121935
+csv_norm_log,material_std_then_norm,target_none,Lasso,{'regressor__alpha': np.float64(0.1)},0.016081410334830924,0.05903380332697927,0.05903380332697927
+csv_norm_log,material_std_then_norm,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.021851614521529374,0.04881673393156183,0.04881673393156183
+csv_norm_log,material_std_then_norm,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.019493870134406333,0.05484071669801216,0.036853440540049465
+csv_norm_log,material_std_then_norm,target_log,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.018055085612846834,0.06807022677895092,0.04306142685278458
+csv_norm_log,material_std_then_norm,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.02201488808893486,0.05465833081324889,0.029670940499599063
+csv_norm_log,material_std_then_norm,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.021173669196456003,0.063990133623407,0.06390438271443588
+csv_norm_log,material_std_then_norm,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.1)},0.01619344680992609,0.058892002258998044,0.058770685262810485
+csv_norm_log,material_std_then_norm,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.021832030866941632,0.04873147350338769,0.048613849137736365
+csv_norm_log,material_std_then_norm,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.021153171673786407,0.06394389280117507,0.06373236513309188
+csv_norm_log,material_std_then_norm,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.019144866696948547,0.04083351539094393,0.04054949163894961
+csv_norm_log,material_std_then_norm,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.8}",0.02109802515469896,0.04569074493810921,0.045404380426340096
+csv_norm_log,material_norm_then_std,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.015821859585830732,0.0695212310323522,0.0695212310323522
+csv_norm_log,material_norm_then_std,target_none,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.045795633186361775,0.019518134249957853,0.019518134249957853
+csv_norm_log,material_norm_then_std,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.048048434920531104,0.06907655729344131,0.06907655729344131
+csv_norm_log,material_norm_then_std,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.013500353682137312,0.060003472793692114,0.04309061174009721
+csv_norm_log,material_norm_then_std,target_log,Lasso,{'regressor__alpha': np.float64(0.004641588833612777)},0.045417710459198554,0.013601710158314462,0.006829164471121585
+csv_norm_log,material_norm_then_std,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.021544346900318832), 'regressor__l1_ratio': 0.5}",0.056095566303958,0.06514932382276539,0.04995742484475829
+csv_norm_log,material_norm_then_std,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.015803989387278096,0.06948497283684296,0.06940439691088329
+csv_norm_log,material_norm_then_std,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.046570077168911525,0.019876393990284735,0.019867120393043614
+csv_norm_log,material_norm_then_std,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.04774568858825219,0.06945508309219539,0.0693784510758213
+csv_norm_log,material_norm_then_std,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.015777555133420895,0.06943657980131024,0.06923748204935942
+csv_norm_log,material_norm_then_std,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.026900645752137197,0.07246775340541634,0.07220949177242786
+csv_norm_log,material_norm_then_std,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.05646572426901242,0.05567380696614077,0.055542374426804875
+csv_std_log,material_none,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.15927486982845324,0.09865221962266679,0.09865221962266679
+csv_std_log,material_none,target_none,Lasso,{'regressor__alpha': np.float64(0.1)},0.07432485670279727,0.06849830350241648,0.06849830350241648
+csv_std_log,material_none,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.07683706679975036,0.05909581204792458,0.05909581204792458
+csv_std_log,material_none,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.0931725407353478,0.10089632969131135,0.07662988301860596
+csv_std_log,material_none,target_log,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.07812740933503952,0.08303225032952888,0.057438305910263554
+csv_std_log,material_none,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.07952452939664852,0.0732918085923081,0.04836616223447432
+csv_std_log,material_none,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.15886897788263502,0.09867549355673944,0.09855269728147253
+csv_std_log,material_none,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.1)},0.07442017848176499,0.06852523244947162,0.06840765188431885
+csv_std_log,material_none,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.07684286648900003,0.05901926912376998,0.05890737896053477
+csv_std_log,material_none,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.15830205396884278,0.09870889265701732,0.09841030377577042
+csv_std_log,material_none,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.07362399627500052,0.04917785914683315,0.04891950636951414
+csv_std_log,material_none,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.07721031358418481,0.06321166724892435,0.06293498329212655
+csv_std_log,material_standardize,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03963000725735044,0.058704480689336425,0.058704480689336425
+csv_std_log,material_standardize,target_none,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.03194706945978056,0.020742331187566743,0.020742331187566743
+csv_std_log,material_standardize,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.045994064145279866,0.06720864727401998,0.06720864727401998
+csv_std_log,material_standardize,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.021345512810218882,0.05032458388529748,0.03240114053490628
+csv_std_log,material_standardize,target_log,Lasso,{'regressor__alpha': np.float64(0.004641588833612777)},0.034369197199745606,0.013718059375134373,0.006975820818869716
+csv_std_log,material_standardize,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.021544346900318832), 'regressor__l1_ratio': 0.5}",0.05340518253349143,0.06375750841006511,0.048257575174998846
+csv_std_log,material_standardize,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03947996431355492,0.05867291357454085,0.05858718455327461
+csv_std_log,material_standardize,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.03292116826951517,0.021069262449708304,0.021060576062946534
+csv_std_log,material_standardize,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.04565857419161101,0.0676664636054981,0.06758913943944422
+csv_std_log,material_standardize,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03927049662499329,0.058630914822778823,0.05841995065845906
+csv_std_log,material_standardize,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.023893135733616445,0.07097544099387143,0.07071513601643997
+csv_std_log,material_standardize,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.054718336530900566,0.05479065958676099,0.05465894061684007
+csv_std_log,material_normalize,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.039764910314920174,0.053223591921687685,0.053223591921687685
+csv_std_log,material_normalize,target_none,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.017222813453803675,0.03603353458230396,0.03603353458230396
+csv_std_log,material_normalize,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.02183747951342623,0.050158607200714855,0.050158607200714855
+csv_std_log,material_normalize,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.024907838669129222,0.04519510586158082,0.026199348991514215
+csv_std_log,material_normalize,target_log,Lasso,{'regressor__alpha': np.float64(0.1)},0.018441951198706084,0.0413446496527774,0.01626810040525628
+csv_std_log,material_normalize,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.02148989902446714,0.056179145106619255,0.03116249683796024
+csv_std_log,material_normalize,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.039633570695737766,0.053193597944559357,0.053102675376374364
+csv_std_log,material_normalize,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.01707633385688252,0.0357763416579433,0.035661045103248745
+csv_std_log,material_normalize,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.021895871924710254,0.050091737293851524,0.0499736320545342
+csv_std_log,material_normalize,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03945027514643893,0.053153922051192515,0.05293047900527459
+csv_std_log,material_normalize,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.020737928647073866,0.043298462589448805,0.043012910409586436
+csv_std_log,material_normalize,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.8}",0.022157119053591457,0.04747152147556888,0.0471838568987234
+csv_std_log,material_std_then_norm,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03976491031492024,0.053223591921687796,0.053223591921687796
+csv_std_log,material_std_then_norm,target_none,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.017222813453803675,0.03603353458230396,0.03603353458230396
+csv_std_log,material_std_then_norm,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.02183747951342623,0.050158607200714855,0.050158607200714855
+csv_std_log,material_std_then_norm,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.024907838669129247,0.04519510586158082,0.026199348991514215
+csv_std_log,material_std_then_norm,target_log,Lasso,{'regressor__alpha': np.float64(0.1)},0.018441951198706084,0.0413446496527774,0.01626810040525628
+csv_std_log,material_std_then_norm,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.02148989902446714,0.056179145106619255,0.03116249683796024
+csv_std_log,material_std_then_norm,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.039633570695737565,0.053193597944559246,0.05310267537637414
+csv_std_log,material_std_then_norm,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.01707633385688252,0.0357763416579433,0.035661045103248745
+csv_std_log,material_std_then_norm,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.021895871924710254,0.050091737293851524,0.0499736320545342
+csv_std_log,material_std_then_norm,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03945027514643882,0.05315392205119274,0.05293047900527448
+csv_std_log,material_std_then_norm,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.020737928647073866,0.043298462589448805,0.043012910409586436
+csv_std_log,material_std_then_norm,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.8}",0.022157119053591457,0.04747152147556888,0.0471838568987234
+csv_std_log,material_norm_then_std,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03963000725735053,0.0587044806893362,0.0587044806893362
+csv_std_log,material_norm_then_std,target_none,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.03194706945978067,0.020742331187566854,0.020742331187566854
+csv_std_log,material_norm_then_std,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.045994064145279755,0.06720864727401998,0.06720864727401998
+csv_std_log,material_norm_then_std,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.0213455128102187,0.05032458388529748,0.03240114053490617
+csv_std_log,material_norm_then_std,target_log,Lasso,{'regressor__alpha': np.float64(0.004641588833612777)},0.03436919719974574,0.013718059375134373,0.006975820818869716
+csv_std_log,material_norm_then_std,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.021544346900318832), 'regressor__l1_ratio': 0.5}",0.05340518253349127,0.06375750841006511,0.04825757517499907
+csv_std_log,material_norm_then_std,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03947996431355494,0.05867291357454063,0.058587184553274274
+csv_std_log,material_norm_then_std,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.0329211682695153,0.021069262449708304,0.021060576062946534
+csv_std_log,material_norm_then_std,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.04565857419161112,0.0676664636054981,0.06758913943944422
+csv_std_log,material_norm_then_std,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03927049662499331,0.058630914822778823,0.058419950658459285
+csv_std_log,material_norm_then_std,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.0238931357336164,0.07097544099387154,0.0707151360164402
+csv_std_log,material_norm_then_std,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.05471833653090068,0.054790659586761215,0.05465894061684007
+csv_std_then_norm_log,material_none,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.025502630799267244,0.11006756148351582,0.11006756148351582
+csv_std_then_norm_log,material_none,target_none,Lasso,{'regressor__alpha': np.float64(0.1)},0.07502961375798038,0.0683719054935017,0.0683719054935017
+csv_std_then_norm_log,material_none,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.07634119222317085,0.05757145040855127,0.05757145040855127
+csv_std_then_norm_log,material_none,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.017298962248740946,0.11089147910151975,0.08731674731404615
+csv_std_then_norm_log,material_none,target_log,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.07867181850880847,0.0827721285837022,0.057239598854391116
+csv_std_then_norm_log,material_none,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.07920647052678634,0.07162681683565442,0.04674857609217775
+csv_std_then_norm_log,material_none,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.02544569750159569,0.11008491869796555,0.10996560336383321
+csv_std_then_norm_log,material_none,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.1)},0.07511463577542546,0.0683901182078468,0.06827288950718036
+csv_std_then_norm_log,material_none,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.07632682941181335,0.05747006110818398,0.057358724197887345
+csv_std_then_norm_log,material_none,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.025362749229501148,0.11011026478198593,0.10981931200679773
+csv_std_then_norm_log,material_none,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.0727354197833789,0.07021354336789187,0.06992666813257642
+csv_std_then_norm_log,material_none,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.0773730219223592,0.06227335259682276,0.061997871476554445
+csv_std_then_norm_log,material_standardize,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.0158218595858294,0.06952123103235242,0.06952123103235242
+csv_std_then_norm_log,material_standardize,target_none,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.04579563318635875,0.019518134249957297,0.019518134249957297
+csv_std_then_norm_log,material_standardize,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.04804843492052933,0.06907655729344053,0.06907655729344053
+csv_std_then_norm_log,material_standardize,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.013500353682136378,0.060003472793692336,0.043090611740096985
+csv_std_then_norm_log,material_standardize,target_log,Lasso,{'regressor__alpha': np.float64(0.004641588833612777)},0.04541771045919598,0.013601710158315128,0.00682916447112103
+csv_std_then_norm_log,material_standardize,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.021544346900318832), 'regressor__l1_ratio': 0.5}",0.056095566303955666,0.06514932382276606,0.04995742484475851
+csv_std_then_norm_log,material_standardize,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.015803989387276875,0.0694849728368433,0.06940439691088374
+csv_std_then_norm_log,material_standardize,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.04657007716890813,0.019876393990284624,0.019867120393043503
+csv_std_then_norm_log,material_standardize,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.047745688588250255,0.06945508309219472,0.06937845107582064
+csv_std_then_norm_log,material_standardize,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.015777555133419673,0.06943657980131057,0.06923748204935987
+csv_std_then_norm_log,material_standardize,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.026900645752136687,0.07246775340541634,0.07220949177242775
+csv_std_then_norm_log,material_standardize,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.056465724269009906,0.05567380696614066,0.055542374426804875
+csv_std_then_norm_log,material_normalize,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.021187301461170604,0.06402493821121968,0.06402493821121968
+csv_std_then_norm_log,material_normalize,target_none,Lasso,{'regressor__alpha': np.float64(0.1)},0.01608141033483059,0.059033803326980605,0.059033803326980605
+csv_std_then_norm_log,material_normalize,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.021851614521529374,0.04881673393156183,0.04881673393156183
+csv_std_then_norm_log,material_normalize,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.01949387013440489,0.054840716698012715,0.03685344054004991
+csv_std_then_norm_log,material_normalize,target_log,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.0180550856128469,0.0680702267789528,0.04306142685278669
+csv_std_then_norm_log,material_normalize,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.02201488808893486,0.05465833081324889,0.029670940499599063
+csv_std_then_norm_log,material_normalize,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.0211736691964546,0.06399013362340755,0.06390438271443677
+csv_std_then_norm_log,material_normalize,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.1)},0.01619344680992594,0.0588920022589996,0.058770685262811706
+csv_std_then_norm_log,material_normalize,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.021832030866941677,0.04873147350338769,0.048613849137736365
+csv_std_then_norm_log,material_normalize,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.021153171673785075,0.06394389280117552,0.06373236513309288
+csv_std_then_norm_log,material_normalize,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.019144866696948572,0.04083351539094393,0.04054949163894961
+csv_std_then_norm_log,material_normalize,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.8}",0.02109802515469903,0.04569074493810921,0.045404380426340096
+csv_std_then_norm_log,material_std_then_norm,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.02118730146117076,0.06402493821121957,0.06402493821121957
+csv_std_then_norm_log,material_std_then_norm,target_none,Lasso,{'regressor__alpha': np.float64(0.1)},0.01608141033483059,0.059033803326980605,0.059033803326980605
+csv_std_then_norm_log,material_std_then_norm,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.021851614521529374,0.04881673393156183,0.04881673393156183
+csv_std_then_norm_log,material_std_then_norm,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.019493870134405112,0.054840716698012826,0.03685344054005002
+csv_std_then_norm_log,material_std_then_norm,target_log,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.0180550856128469,0.0680702267789528,0.04306142685278669
+csv_std_then_norm_log,material_std_then_norm,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.02201488808893486,0.05465833081324889,0.029670940499599063
+csv_std_then_norm_log,material_std_then_norm,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.02117366919645458,0.06399013362340766,0.06390438271443621
+csv_std_then_norm_log,material_std_then_norm,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.1)},0.01619344680992594,0.0588920022589996,0.058770685262811706
+csv_std_then_norm_log,material_std_then_norm,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.021832030866941677,0.04873147350338769,0.048613849137736365
+csv_std_then_norm_log,material_std_then_norm,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.02115317167378512,0.06394389280117574,0.06373236513309277
+csv_std_then_norm_log,material_std_then_norm,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.019144866696948572,0.04083351539094393,0.04054949163894961
+csv_std_then_norm_log,material_std_then_norm,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.8}",0.02109802515469903,0.04569074493810921,0.045404380426340096
+csv_std_then_norm_log,material_norm_then_std,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.01582185958582949,0.0695212310323523,0.0695212310323523
+csv_std_then_norm_log,material_norm_then_std,target_none,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.045795633186359264,0.01951813424995741,0.01951813424995741
+csv_std_then_norm_log,material_norm_then_std,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.04804843492052926,0.06907655729344064,0.06907655729344064
+csv_std_then_norm_log,material_norm_then_std,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.0135003536821364,0.06000347279369245,0.04309061174009765
+csv_std_then_norm_log,material_norm_then_std,target_log,Lasso,{'regressor__alpha': np.float64(0.004641588833612777)},0.04541771045919567,0.01360171015831535,0.006829164471121363
+csv_std_then_norm_log,material_norm_then_std,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.021544346900318832), 'regressor__l1_ratio': 0.5}",0.05609556630395558,0.06514932382276584,0.0499574248447584
+csv_std_then_norm_log,material_norm_then_std,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.01580398938727685,0.0694849728368433,0.06940439691088385
+csv_std_then_norm_log,material_norm_then_std,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.0465700771689078,0.019876393990284513,0.019867120393043614
+csv_std_then_norm_log,material_norm_then_std,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.047745688588250144,0.06945508309219472,0.06937845107582064
+csv_std_then_norm_log,material_norm_then_std,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.015777555133419698,0.06943657980131068,0.06923748204935998
+csv_std_then_norm_log,material_norm_then_std,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.026900645752136687,0.07246775340541656,0.07220949177242786
+csv_std_then_norm_log,material_norm_then_std,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.056465724269009684,0.05567380696614044,0.055542374426804875
+csv_norm_then_std_log,material_none,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.15927486982750713,0.09865221962365489,0.09865221962365489
+csv_norm_then_std_log,material_none,target_none,Lasso,{'regressor__alpha': np.float64(0.1)},0.07432485670306932,0.06849830350288144,0.06849830350288144
+csv_norm_then_std_log,material_none,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.07683706680016593,0.05909581204837899,0.05909581204837899
+csv_norm_then_std_log,material_none,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.09317254073472639,0.10089632969234108,0.07662988301948614
+csv_norm_then_std_log,material_none,target_log,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.07812740933527562,0.08303225032994366,0.05743830591071297
+csv_norm_then_std_log,material_none,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.07952452939699442,0.07329180859271589,0.04836616223490464
+csv_norm_then_std_log,material_none,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.15886897788177484,0.0986754935578007,0.09855269728253269
+csv_norm_then_std_log,material_none,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.1)},0.07442017848203612,0.06852523244993625,0.0684076518847836
+csv_norm_then_std_log,material_none,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.07684286648941537,0.05901926912422362,0.05890737896098852
+csv_norm_then_std_log,material_none,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.15830205396787111,0.09870889265797411,0.09841030377672422
+csv_norm_then_std_log,material_none,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.07362399627525,0.04917785914729078,0.04891950636997178
+csv_norm_then_std_log,material_none,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.07721031358457017,0.06321166724938054,0.06293498329258318
+csv_norm_then_std_log,material_standardize,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.039630007257241015,0.0587044806906134,0.0587044806906134
+csv_norm_then_std_log,material_standardize,target_none,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.031947069461898604,0.020742331188154828,0.020742331188154828
+csv_norm_then_std_log,material_standardize,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.045994064145349144,0.06720864727461373,0.06720864727461373
+csv_norm_then_std_log,material_standardize,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.02134551281009034,0.0503245838866625,0.03240114053605814
+csv_norm_then_std_log,material_standardize,target_log,Lasso,{'regressor__alpha': np.float64(0.004641588833612777)},0.03436919720174576,0.013718059375850133,0.006975820819468903
+csv_norm_then_std_log,material_standardize,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.021544346900318832), 'regressor__l1_ratio': 0.5}",0.05340518253388371,0.06375750841076655,0.048257575175607914
+csv_norm_then_std_log,material_standardize,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03947996431344554,0.05867291357581883,0.0585871845545507
+csv_norm_then_std_log,material_standardize,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.03292116827161913,0.02106926245029661,0.021060576063534286
+csv_norm_then_std_log,material_standardize,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.045658574191415904,0.06766646360609163,0.06758913944003708
+csv_norm_then_std_log,material_standardize,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.039270496624884486,0.058630914824058133,0.05841995065973493
+csv_norm_then_std_log,material_standardize,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.02389313573301932,0.07097544099427078,0.07071513601683876
+csv_norm_then_std_log,material_standardize,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.05471833653180458,0.054790659587320545,0.05465894061739762
+csv_norm_then_std_log,material_normalize,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03976491031483507,0.0532235919229449,0.0532235919229449
+csv_norm_then_std_log,material_normalize,target_none,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.01722281345425385,0.03603353458273717,0.03603353458273717
+csv_norm_then_std_log,material_normalize,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.021837479513653113,0.05015860720115772,0.05015860720115772
+csv_norm_then_std_log,material_normalize,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.024907838668998372,0.04519510586294151,0.0261993489926573
+csv_norm_then_std_log,material_normalize,target_log,Lasso,{'regressor__alpha': np.float64(0.1)},0.018441951199017592,0.04134464965314788,0.0162681004056614
+csv_norm_then_std_log,material_normalize,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.021489899024617797,0.05617914510699551,0.031162496838391673
+csv_norm_then_std_log,material_normalize,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03963357069565239,0.05319359794581735,0.05310267537763058
+csv_norm_then_std_log,material_normalize,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.017076333857333027,0.035776341658376176,0.035661045103682176
+csv_norm_then_std_log,material_normalize,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.021895871924937072,0.05009173729429428,0.04997363205497718
+csv_norm_then_std_log,material_normalize,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03945027514635384,0.05315392205245184,0.05293047900653025
+csv_norm_then_std_log,material_normalize,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.020737928647495817,0.04329846258988168,0.04301291041001987
+csv_norm_then_std_log,material_normalize,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.8}",0.022157119054136466,0.047471521476006195,0.0471838568991606
+csv_norm_then_std_log,material_std_then_norm,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03976491031483487,0.05322359192294479,0.05322359192294479
+csv_norm_then_std_log,material_std_then_norm,target_none,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.01722281345425385,0.03603353458273717,0.03603353458273717
+csv_norm_then_std_log,material_std_then_norm,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.021837479513653113,0.05015860720115772,0.05015860720115772
+csv_norm_then_std_log,material_std_then_norm,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.024907838668998393,0.04519510586294151,0.026199348992657634
+csv_norm_then_std_log,material_std_then_norm,target_log,Lasso,{'regressor__alpha': np.float64(0.1)},0.018441951199017592,0.04134464965314788,0.0162681004056614
+csv_norm_then_std_log,material_std_then_norm,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.021489899024617797,0.05617914510699551,0.031162496838391673
+csv_norm_then_std_log,material_std_then_norm,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03963357069565243,0.05319359794581768,0.05310267537763114
+csv_norm_then_std_log,material_std_then_norm,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.017076333857333027,0.035776341658376176,0.035661045103682176
+csv_norm_then_std_log,material_std_then_norm,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.5}",0.021895871924937072,0.05009173729429428,0.04997363205497718
+csv_norm_then_std_log,material_std_then_norm,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.039450275146354,0.05315392205245184,0.05293047900653036
+csv_norm_then_std_log,material_std_then_norm,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.46415888336127775)},0.020737928647495817,0.04329846258988168,0.04301291041001987
+csv_norm_then_std_log,material_std_then_norm,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.46415888336127775), 'regressor__l1_ratio': 0.8}",0.022157119054136466,0.047471521476006195,0.0471838568991606
+csv_norm_then_std_log,material_norm_then_std,target_none,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03963000725724104,0.058704480690613514,0.058704480690613514
+csv_norm_then_std_log,material_norm_then_std,target_none,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.031947069461898826,0.020742331188154828,0.020742331188154828
+csv_norm_then_std_log,material_norm_then_std,target_none,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.04599406414534903,0.06720864727461384,0.06720864727461384
+csv_norm_then_std_log,material_norm_then_std,target_log,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.021345512810090294,0.0503245838866625,0.03240114053605836
+csv_norm_then_std_log,material_norm_then_std,target_log,Lasso,{'regressor__alpha': np.float64(0.004641588833612777)},0.034369197201745846,0.0137180593758498,0.006975820819468681
+csv_norm_then_std_log,material_norm_then_std,target_log,ElasticNet,"{'regressor__alpha': np.float64(0.021544346900318832), 'regressor__l1_ratio': 0.5}",0.05340518253388369,0.063757508410767,0.04825757517560836
+csv_norm_then_std_log,material_norm_then_std,target_boxcox,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03947996431344571,0.05867291357581894,0.05858718455455081
+csv_norm_then_std_log,material_norm_then_std,target_boxcox,Lasso,{'regressor__alpha': np.float64(0.021544346900318832)},0.03292116827161884,0.02106926245029661,0.021060576063534064
+csv_norm_then_std_log,material_norm_then_std,target_boxcox,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.045658574191415766,0.06766646360609163,0.06758913944003708
+csv_norm_then_std_log,material_norm_then_std,target_yeojohnson,Ridge,{'regressor__alpha': np.float64(1000.0)},-0.03927049662488467,0.05863091482405802,0.05841995065973449
+csv_norm_then_std_log,material_norm_then_std,target_yeojohnson,Lasso,{'regressor__alpha': np.float64(0.1)},0.02389313573301923,0.07097544099427078,0.07071513601683876
+csv_norm_then_std_log,material_norm_then_std,target_yeojohnson,ElasticNet,"{'regressor__alpha': np.float64(0.1), 'regressor__l1_ratio': 0.5}",0.05471833653180462,0.05479065958732088,0.05465894061739762

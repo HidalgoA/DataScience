@@ -1,0 +1,9 @@
+
+A deep learning dataset for metal multiaxial fatigue life prediction
+**********************
+Description
+
+In this work, we present a comprehensive dataset designed to facilitate the prediction of metal fatigue life using deep learning techniques. The dataset includes detailed experimental data from 40 different metallic materials, comprising a total of 1195 data points under 48 distinct loading paths. Each data point is stored in a CSV file, capturing the loading path as a time-series with axial and tangential stress or strain values.The primary purpose of this dataset is to support the development and validation of deep learning models aimed at accurately predicting the fatigue life of metals under various loading conditions. This dataset includes stress-controlled and strain-controlled data, ensuring a broad representation of experimental scenarios. Additionally, an Excel file accompanies the dataset, providing detailed mechanical properties of each material, such as elastic modulus, tensile strength, yield strength, and Poisson's ratio, along with references to the original experimental sources.This dataset is intended for researchers in materials science and mechanical engineering, offering a robust foundation for training and testing deep learning algorithms in fatigue analysis. By making this dataset publicly available, we aim to foster collaboration and further advancements in the field of metal fatigue prediction. Researchers are encouraged to utilize and contribute to the dataset, thereby enhancing its scope and applicability.
+**********************
+
+https://archive.materialscloud.org/record/2024.155
